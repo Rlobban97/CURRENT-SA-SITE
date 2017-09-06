@@ -1,0 +1,922 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:fb="http://developers.facebook.com/schema/">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
+
+<title>Student Association - University at Albany - SUNY</title>	
+<!-- <link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	-->
+<link rel="stylesheet" type="text/css" href="http://www.albany.edu/studentassociation/includes/styles.css" />
+<link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />    
+
+
+<script src="http://www.google.com/jsapi?key=ABQIAAAAozF4FAB3yDY5htyu4hdC0RSls_HzuGee7l7WnV53J55I5Ad9dRQx31ByK5SsO4U3c2k5jNaz0Wnq_A"></script>
+
+    <script type="text/javascript"> 
+
+    /*
+
+    *  How to load a feed via the Feeds API.
+
+    */
+
+    
+
+    google.load("feeds", "1");
+
+    
+
+    // Our callback function, for when a feed is loaded.
+
+    function feedLoaded(result) {
+
+      if (!result.error) {
+
+        // Grab the container we will put the results into
+
+        var container = document.getElementById("blogholder");
+
+        container.innerHTML = '';
+
+    
+
+        // Loop through the feeds, putting the titles onto the page.
+
+        // Check out the result object for a list of properties returned in each entry.
+
+        // http://code.google.com/apis/ajaxfeeds/documentation/reference.html#JSON
+
+        for (var i = 0; i < result.feed.entries.length; i++) {
+
+          var entry=result.feed.entries[i];
+
+          var content=entry.content;
+
+          var title=entry.title;
+
+	  var postdate=entry.publishedDate;
+
+          var div=document.createElement("div");
+
+          div.className='blogpost';
+
+          var div2=document.createElement("div");
+
+          var html='<h2>'+title.link(entry.link)+'</h2><font size=-2>Posted on '+postdate+'</font><br><br>';
+
+          div2.innerHTML=html+content+'<hr><br><BR>';
+
+          div.appendChild(div2);
+
+          container.appendChild(div);
+
+        }
+
+      }
+
+    }
+
+    
+
+    function OnLoad() {
+
+      // Create a feed instance that will grab the feed.
+
+      var feed = new google.feeds.Feed("http://ualbanysablog.blogspot.com/atom.xml");
+
+      feed.setNumEntries(5);
+
+      // Calling load sends the request off.  It requires a callback function.
+
+      feed.load(feedLoaded);
+
+    }
+
+    
+
+    google.setOnLoadCallback(OnLoad);
+
+    </script> 
+
+
+
+
+<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>	
+<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>	
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+<link rel="openid.server" href="http://www.blogger.com/openid-server.g" />
+
+
+<style type="text/css">	
+/* rotator in-page placement */
+        div.rotator {
+	position:relative;
+	height:213px;  
+
+	width:944px;
+	margin-left: 0px;
+	margin-top: 0px;
+border-color:#e3e3e2;
+border-style:solid;
+border-width:5px;
+border-radius: 10px; 		z-index:-1;
+
+}		
+
+
+</style>
+
+
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28601932-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google Analytics -->
+
+</head>
+<body id="page">
+	<noscript>
+		<div class="noscript">You need JavaScript enabled to correct display page</div>
+	</noscript>
+
+<!--main container-->
+<div id="main"> 
+
+<!-- header start -->	
+<!--<div id="slideout"><br><br><br>&nbsp;		<div id="slideout_inner">			<a href=http://www.myinvolvement.org><img src=howtoregisterlong.jpg></a>		</div>	</div> --><div id="header">			<div class="header-holder">			
+	<strong class="logo">
+		<a href="http://www.albany.edu/studentassociation">
+			<img src="http://www.albany.edu/studentassociation/images/sawordmark.jpg" alt="Student Association - University At Albany" /></a>
+	</strong>	
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.albany.edu/studentassociation">
+		<img src="http://www.albany.edu/studentassociation/images/top-sa-logo.jpg" alt="Student Association - University At Albany" /></a>
+
+		   
+<!-- search start -->                                    
+<div class="search" style="text-align: right; margin-right: 0px;" >              
+<!--========== Begin Search ==========-->
+<form action="search_results.shtml" id="cse-search-box" method="get" name="cse-search-box" >    
+	<input type="hidden" name="cx" value="012410581953662217427:jerzumhp3fe" />
+	<div class="search-bg">    
+		<input type="hidden" name="cof" value="FORID:11" />    
+		<input type="hidden" name="ie" value="UTF-8" />    
+		<input type="text" name="q" class="searchBox2" size="24" />    
+		<input src="http://www.albany.edu/Images/Header/btnSearch.gif" name="sa" type="image" value="Search" class="searchButton2"  style="padding-left: 2px;"/>
+	</div>
+	<div id="search_labels" style="padding-top: 2px; margin-right: 5px;">    
+		<input id="custom" type="radio" name="cx" value="012410581953662217427:jerzumhp3fe" checked="checked" /> 
+		<label for="custom" style="padding: 0px 3px 0px 0px; margin-left: -3px;font-size: .8em; vertical-align:middle; font-family: Verdana, Geneva, sans-serif">Search the SA site</label>    
+		<input id="www" type="radio" name="cx" value="015091508766613755815:egotm6n6law" />    
+		<label for="www" style="padding: 0; margin-left: -3px;font-size: .8em; vertical-align:middle; font-family: Verdana, Geneva, sans-serif">UAlbany</label>
+	</div>
+</form> 
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>              
+
+<!--========== End Search ==========-->            
+</div>                                    
+<!-- search end -->
+
+
+		
+</div>    
+
+
+
+
+
+<!-- header-box start -->		<div class="header-box">			
+	<ul class="small-nav">				
+		<li class="first"><a href="http://www.albany.edu/">UAlbany Homepage</a></li>
+		<li><a href="http://www.albany.edu/myualbany/">MyUAlbany</a></li>                
+		<li><a href="http://ualbany2.custhelp.com/cgi-bin/ualbany2.cfg/php/enduser/std_alp.php?source=home&amp;p_sid=NWg5Pgdj"> Ask UAlbany</a></li>                
+		<li><a href="http://www.albany.edu/directories.php"> Directories</a></li>                
+		<li><a href="http://www.albany.edu/about_visiting.php"> Visit</a></li>                
+		<li><a href="http://www.albany.edu/contact.php"> Contact</a></li>                
+		<li class="last"><a href="http://www.albany.edu/sitemap.php"> A-Z Index</a></li>			
+	</ul>
+
+     
+
+
+
+	<ul id="menu" >		
+
+
+<li><a href="aboutsa.shtml" class="drop">About</a>
+<div class="dropdown_1column">  
+  
+                <div class="col_1">  
+  
+                    <ul class="greybox">  
+                        <li><a href="http://www.albany.edu/studentassociation/aboutsa.shtml">What is SA?</a></li> 
+			<li><a href="http://www.albany.edu/studentassociation/operations.shtml">SA Staff</a></li> 
+                        <li><a href="http://www.albany.edu/studentassociation/contact.shtml">Contact Info</a></li> 
+
+                      
+                    </ul>     
+  
+                </div>  
+  
+        </div>  
+
+
+</li>
+
+
+
+					
+<li><a href="aboutsa.shtml" class="drop">SA Branches</a>
+
+ <div class="dropdown_5columns"> 
+  
+           <!-- <div class="col_4">  
+                <h2><a href=aboutsa.shtml>SA Branches</a></h2>  
+            </div>  -->
+  
+            <div class="col_1">  
+  		<a href=branch_exec.shtml><h3>Executive</h3></a>
+                <ul>  
+                    <li><a href="http://www.albany.edu/studentassociation/executive_pres.shtml">President</a></li>
+                    <li><a href="http://www.albany.edu/studentassociation/executive_vp.shtml">Vice President</a></li>
+                    <li><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Chief of Staff</a></li>
+                    <li><a href="http://www.albany.edu/studentassociation/executive_comp.shtml">Comptroller</a></li>
+                    <li><a href="http://www.albany.edu/studentassociation/executive.shtml">Other Departments</a></li>  
+                  
+                </ul>     
+  
+            </div>  
+  
+            <div class="col_1">  
+   		<a href=branch_senate.shtml><h3>Legislative</h3></a>
+                <ul>  
+                    <li><a href="http://www.albany.edu/sasenate/senators.shtml">Senate Roster</a></li>  
+                    <li><a href="http://www.albany.edu/sasenate/chair.shtml">Office of the Chair</a></li>  
+                    <li><a href="http://www.albany.edu/sasenate/coc.shtml">Committees</a></li>  
+                    <li><a href="http://www.albany.edu/sasenate/docs.shtml">Agendas/Minutes</a></li>  
+                    <li><a href="http://www.albany.edu/sasenate/docs14-15.shtml">Legislation</a></li>  
+                    <li><a href="http://www.albany.edu/sasenate/const_and_by.shtml">Constitution/By-Laws</a></li>  
+                </ul>     
+  
+            </div>  
+  
+            <div class="col_1">  
+  		<a href=branch_court.shtml><h3>Judicial</h3></a>
+                <ul>  
+                    <li><a href="http://www.albany.edu/studentassociation/supremecourt.shtml">Supreme Court</a></li>  
+  
+                </ul>  
+</div>
+ <div class="col_2">  
+  		<h3>Special Committees</h3>
+                <ul>  
+                    	<li><a href="http://www.albany.edu/studentassociation/boardoffinance.shtml">Board of Finance</a></li>
+			<li><a href="http://www.albany.edu/studentassociation/electionscommission.shtml">Elections Commission</a></li>  
+  
+                </ul>     
+  
+            </div>  
+  </div>
+
+</li><!-- 
+<li><a href="http://www.albany.edu/studentassociation/docs/newsletter-may12.pdf" class="drop">SA Bulletin</a>
+<div class="dropdown_1column">  
+  
+                <div class="col_1">  
+  
+                    <ul>  
+			<li><a href="http://www.albany.edu/studentassociation/docs/newsletter-may12.pdf">May 2012</a></li>						<li><a href="http://www.albany.edu/studentassociation/docs/newsletter-april12.pdf">April 2012</a></li>
+                        <li><a href="http://www.albany.edu/studentassociation/docs/newsletter-march12.pdf">March 2012</a></li>  
+                   
+                      
+                    </ul>     
+  
+                </div>  
+  
+        </div>  
+</li>
+--><li><a href="http://www.dippikill.com">Dippikill</a></li>
+
+<li><a href="" class="drop">Resources</a>
+
+ <div class="dropdown_4columns"> 
+  
+  
+            
+ <div class="col_2">  
+  		<h3>Student Group Resources</h3>
+                    <ul>  
+                        <li><a href="http://www.albany.edu/studentassociation/budget_groups.shtml">Budget Info</a></li>  
+                        <li><a href="http://www.albany.edu/studentassociation/finances.shtml">Finances</a></li> 
+                        <li><a href="http://www.albany.edu/studentassociation/documents_groups.shtml">Forms/Documents</a></li>  
+                      	<li><a href="http://www.albany.edu/studentassociation/grouplist.shtml">List of Student Groups</a></li>  
+                        <li><a href="http://www.albany.edu/studentassociation/calendar.shtml">SA&nbsp;Event&nbsp;Calendar&nbsp;Request</a></li>
+                    </ul>  
+            </div> 
+
+
+ <div class="col_2">  
+  		<h3>SA Official Resources</h3>
+                    <ul>  
+                                               <li><a href="http://www.albany.edu/studentassociation/budget_internal.shtml">Budget Info</a></li>  
+  <li><a href="http://www.albany.edu/studentassociation/finances.shtml">Finances</a></li> 
+                        <li><a href="http://www.albany.edu/studentassociation/documents_internal.shtml">Forms/Documents</a></li>
+<li><a href="http://www.albany.edu/studentassociation/calendar_sa.shtml">SA&nbsp;Event&nbsp;Calendar&nbsp;Request</a></li>
+
+ <li><a href="http://www.albany.edu/studentassociation/concern.shtml">Academic&nbsp;Concern&nbsp;Form</a></li>                   </ul>     
+  
+  
+            </div> 
+ 
+  </div>
+
+</li>
+<li><a href="" class="drop">Student Services</a>
+<div class="dropdown_1column">  
+  
+                <div class="col_1">  
+  
+                    <ul class="greybox">  <li><a href="http://www.albany.edu/studentassociation/discount.shtml">Student Discounts</a></li>		                  <li><a href="http://www.albany.edu/studentassociation/legalservices.shtml">Legal Services</a></li>  
+                        <li><a href="http://www.albany.edu/studentassociation/tickets.shtml">Bus Tickets</a></li> 
+                        <li><a href="http://www.albany.edu/studentassociation/ticketrequest.shtml">Event Tickets</a></li>  
+<li><a href="http://www.albany.edu/studentassociation/tickets_movies.shtml">Movie Tickets</a></li>  
+                      
+              </ul>     
+  
+                </div>  
+  
+        </div>  
+
+
+</li>
+
+
+<li><a href="getinvolved.shtml" class="drop">Get Involved</a>
+<div class="dropdown_1column">  
+  
+                <div class="col_1">  
+  
+                    <ul class="greybox">  
+                        <li><a href="http://www.albany.edu/studentassociation/getinvolved.shtml">Join SA</a></li>  
+                        <li><a href="http://www.albany.edu/studentassociation/joinagroup.shtml">Join a Group</a></li> 
+                        <li><a href="http://www.albany.edu/studentassociation/startagroup.shtml">Start a Group</a></li>  
+			<li><a href="http://www.albany.edu/studentassociation/electioninfo.shtml">Election Info</a></li>
+                    </ul>     
+  
+                </div>  
+  
+        </div>  
+
+
+</li>
+
+
+
+
+
+
+
+
+</ul>	
+                        
+
+
+</div>
+<!-- header-box end -->	
+
+</div>	
+<!-- header end -->	
+<div class="rotator" style="overflow:hidden;">
+
+
+<script type="text/javascript">
+
+/***********************************************
+* Conveyor belt slideshow script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+
+//Specify the slider's width (in pixels)
+var sliderwidth="945px"
+
+//Specify the slider's height
+var sliderheight="213px"
+
+//Specify the slider's slide speed (larger is faster 1-10)
+
+var slidespeed=3
+
+//configure background color:
+slidebgcolor="#EAEAEA"
+
+
+//Specify the slider's images
+
+var leftrightslide=new Array()
+
+var finalslide=''
+
+
+leftrightslide[0]='<a href="http://"><img src="indextops/9-2015-3.jpg" width="795" height="213"  alt="Laverne Cox Group Shot" border="1" /></a>'
+
+leftrightslide[1]='<a href="http://"><img src="indextops/topfallfest.jpg" width="452" height="213"  alt="FallFest 2011" border="1" /></a>'
+
+leftrightslide[2]='<a href="http://"><img src="indextops/votecupcake1.jpg" width="323" height="213"  alt="UAlbany Votes" border="1" /></a>'
+
+leftrightslide[3]='<a href="http://"><img src="indextops/votecupcake2.jpg" width="159" height="213"  alt="Cupcakes" border="1" /></a>'
+
+leftrightslide[4]='<a href="http://"><img src="indextops/9-2015-2.jpg" width="159" height="213"  alt="SA Eboard" border="1" /></a>'
+
+leftrightslide[5]='<a href="http://"><img src="indextops/topmagic.jpg" width="485" height="213"  alt="Magic Johnson" border="1" /></a>'
+
+leftrightslide[6]='<a href="http://"><img src="indextops/9-2015-5.jpg" width="287" height="213"  alt="Dippikill Staff" border="1" /></a>'
+
+leftrightslide[7]='<a href="http://"><img src="indextops/9-2015-1.jpg" width="159" height="213"  alt="" border="1" /></a>'
+
+leftrightslide[8]='<a href="http://"><img src="indextops/topcleanup.jpg" width="427" height="213"  alt="pic3" border="1" /></a>'
+
+leftrightslide[9]='<a href="http://"><img src="indextops/top4.jpg" width="428" height="213"  alt="pic4" border="1" /></a>'
+
+leftrightslide[10]='<a href="http://"><img src="indextops/photo1.jpg" width="360" height="213"  alt="pic1" border="1" /></a>'
+
+leftrightslide[11]='<a href="http://"><img src="indextops/top5andahalf.jpg" width="320" height="213"  alt="pic1" border="1" /></a>'
+
+leftrightslide[12]='<a href="http://"><img src="indextops/9-2015-4.jpg" width="924" height="213"  alt="pic2" border="1" /></a>'
+
+leftrightslide[13]='<a href="http://"><img src="indextops/photo2-8-22.jpg" width="557" height="213"  alt="pic2" border="1" /></a>'
+
+leftrightslide[14]='<a href="http://"><img src="indextops/top8.jpg" width="587" height="213"  alt="pic4" border="1" /></a>'
+
+leftrightslide[15]='<a href="http://"><img src="indextops/photo2.jpg" width="151" height="213"  alt="pic1" border="1" /></a>'
+
+leftrightslide[16]='<a href="http://"><img src="indextops/top10.jpg" width="587" height="213"  alt="pic2" border="1" /></a>'
+
+leftrightslide[17]='<a href="http://"><img src="indextops/top10andahalf.jpg" width="566" height="213"  alt="pic2" border="1" /></a>'
+
+leftrightslide[18]='<a href="http://"><img src="indextops/ritaawardphoto.jpg" width="159" height="213"  alt="pic3" border="1" /></a>'
+
+leftrightslide[19]='<a href="http://"><img src="indextops/topfallfest2.jpg" width="456" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[18]='<a href="http://"><img src="indextops/top11.jpg" width="587" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[19]='<a href="http://"><img src="indextops/top12.jpg" width="587" height="213"  alt="pic4" border="1" /></a>'
+
+//leftrightslide[20]='<a href="http://"><img src="indextops/top13.jpg" width="587" height="213"  alt="pic1" border="1" /></a>'
+
+//leftrightslide[21]='<a href="http://"><img src="indextops/top14.jpg" width="587" height="213"  alt="pic2" border="1" /></a>'
+
+//leftrightslide[22]='<a href="http://"><img src="indextops/top15.jpg" width="279" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[23]='<a href="http://"><img src="indextops/top16.jpg" width="587" height="213"  alt="pic4" border="1" /></a>'
+
+//leftrightslide[24]='<a href="http://"><img src="indextops/top17.jpg" width="370" height="213"  alt="pic1" border="1" /></a>'
+
+//leftrightslide[25]='<a href="http://"><img src="indextops/top18.jpg" width="587" height="213"  alt="pic2" border="1" /></a>'
+
+//leftrightslide[26]='<a href="http://"><img src="indextops/top19.jpg" width="587" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[27]='<a href="http://"><img src="indextops/top2.jpg" width="587" height="213"  alt="pic2" border="1" /></a>'
+
+//leftrightslide[28]='<a href="http://"><img src="indextops/top20-1.jpg" width="228" height="213"  alt="pic4" border="1" /></a>'
+
+//leftrightslide[29]='<a href="http://"><img src="indextops/top20-2.jpg" width="196" height="213"  alt="pic4" border="1" /></a>'
+
+//leftrightslide[30]='<a href="http://"><img src="indextops/top21.jpg" width="141" height="213"  alt="pic1" border="1" /></a>
+
+//leftrightslide[31]='<a href="http://"><img src="indextops/topdippikill.jpg" width="535" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[32]='<a href="http://"><img src="indextops/top22.jpg" width="587" height="213"  alt="pic2" border="1" /></a>'
+
+//leftrightslide[33]='<a href="http://"><img src="indextops/top23.jpg" width="587" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[34]='<a href="http://"><img src="indextops/top3.jpg" width="426" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[35]='<a href="http://"><img src="indextops/top24.jpg" width="587" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[36]='<a href="http://"><img src="indextops/top25.jpg" width="587" height="213"  alt="pic3" border="1" /></a>'
+
+//leftrightslide[37]='<a href="http://"><img src="indextops/top26.jpg" width="587" height="213"  alt="pic3" border="1" /></a>'
+
+
+
+//Specify gap between each image (use HTML):
+
+var imagegap=""
+
+
+//Specify pixels gap between each slideshow rotation (use integer):
+
+var slideshowgap=0
+
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+
+var copyspeed=slidespeed
+leftrightslide='<nobr>'+leftrightslide.join(imagegap)+'</nobr>'
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+leftrightslide+'</span>')
+var actualwidth=''
+var cross_slide, ns_slide
+
+function fillup(){
+if (iedom){
+cross_slide=document.getElementById? document.getElementById("test2") : document.all.test2
+cross_slide2=document.getElementById? document.getElementById("test3") : document.all.test3
+cross_slide.innerHTML=cross_slide2.innerHTML=leftrightslide
+actualwidth=document.all? cross_slide.offsetWidth : document.getElementById("temp").offsetWidth
+cross_slide2.style.left=actualwidth+slideshowgap+"px"
+}
+else if (document.layers){
+ns_slide=document.ns_slidemenu.document.ns_slidemenu2
+ns_slide2=document.ns_slidemenu.document.ns_slidemenu3
+ns_slide.document.write(leftrightslide)
+ns_slide.document.close()
+actualwidth=ns_slide.document.width
+ns_slide2.left=actualwidth+slideshowgap
+ns_slide2.document.write(leftrightslide)
+ns_slide2.document.close()
+}
+lefttime=setInterval("slideleft()",30)
+}
+window.onload=fillup
+
+function slideleft(){
+if (iedom){
+if (parseInt(cross_slide.style.left)>(actualwidth*(-1)+8))
+cross_slide.style.left=parseInt(cross_slide.style.left)-copyspeed+"px"
+else
+cross_slide.style.left=parseInt(cross_slide2.style.left)+actualwidth+slideshowgap+"px"
+
+if (parseInt(cross_slide2.style.left)>(actualwidth*(-1)+8))
+cross_slide2.style.left=parseInt(cross_slide2.style.left)-copyspeed+"px"
+else
+cross_slide2.style.left=parseInt(cross_slide.style.left)+actualwidth+slideshowgap+"px"
+
+}
+else if (document.layers){
+if (ns_slide.left>(actualwidth*(-1)+8))
+ns_slide.left-=copyspeed
+else
+ns_slide.left=ns_slide2.left+actualwidth+slideshowgap
+
+if (ns_slide2.left>(actualwidth*(-1)+8))
+ns_slide2.left-=copyspeed
+else
+ns_slide2.left=ns_slide.left+actualwidth+slideshowgap
+}
+}
+
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0"><td>')
+if (iedom){
+write('<div style="position:relative;width:'+sliderwidth+';height:'+sliderheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+sliderwidth+';height:'+sliderheight+';background-color:'+slidebgcolor+'" onMouseover="copyspeed=0" onMouseout="copyspeed=slidespeed">')
+write('<div id="test2" style="position:absolute;left:0px;top:0px"></div>')
+write('<div id="test3" style="position:absolute;left:-1000px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+sliderwidth+' height='+sliderheight+' name="ns_slidemenu" bgColor='+slidebgcolor+'>')
+write('<layer name="ns_slidemenu2" left=0 top=0 onMouseover="copyspeed=0" onMouseout="copyspeed=slidespeed"></layer>')
+write('<layer name="ns_slidemenu3" left=0 top=0 onMouseover="copyspeed=0" onMouseout="copyspeed=slidespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script>
+
+</div>
+
+<!-- content holder -->	
+<div id="content">		
+<!-- contaner start -->		
+<div class="contaner">			
+	<div class="contaner-top">				<div class="contaner-bottom">				
+			<!-- content -->					<div class="content">	
+
+<!-- Alert Banner
+<a href=http://www.albany.edu/speakerseries><img src="images/common-banner.jpg" alt="Speaker Series - Common"></a> 
+
+End Alert Banner -->
+
+
+
+<!-- Alert Box			
+			
+
+<BR><BR><center><table width=500px style="border-style: solid;border-width: thick;border-color: red;"><tr><TD><B><center>
+<BR>From noon on Wednesday 4/1 until noon on Friday 4/3<BR> <b>vote to keep the Student Activity Mandatory</b> on <a href=http://www.myinvolvement.org>MyInvolvement</a>.
+<BR>&nbsp;
+</center></b></td></tr></table>
+
+</center>
+ End Alert Box -->			
+
+
+<div class="content-box">
+
+
+
+						<!-- tab-bxes -->
+					<div class="tabs">
+						<ul class="tabset tab-nav">
+							<li class="first"><a href="#tab1" class="tab active" title="btn 1"><span>Featured Events</span></a></li>
+							<li><a href="#tab2" class="tab" title="btn 2"><span>SA Photos</span></a></li>
+						</ul>
+						<!-- frame-box -->
+						<div class="frame-box">
+							<div class="frame-box-top">
+								<div class="frame-box-bottom">
+									<!-- tab 1 -->
+									<div id="tab1" class="tab">
+									<ul class="news-list">
+				
+
+
+
+
+
+
+		
+
+
+
+
+ 
+
+
+
+								
+
+
+
+
+ 
+
+<li><a href="http://www.albany.edu/alumni/ucan.php">
+									<img src="images/ucan.jpg" alt="UCAN" width="165" height="137" border="0" /></a>		        <h3>
+									<a href=http://www.albany.edu/alumni/ucan.php>Connect With Alumni with UCAN</a></h3>
+									<p>UAlbany Career Advisory Network is an online tool for you to connect to alumni working in your field. To find out more, <a href=http://www.albany.edu/alumni/ucan.php>click here</a>.  </p>
+								</li>
+
+ 
+
+
+
+<li>     <h3>
+									<a href=tickets.shtml>SA Ticket Window</a></h3>
+									<p>Did you know the SA Ticket Window sells bus tickets and discount movie tickets? <a href=tickets.shtml>Click here</a> to learn more!</p>
+								</li>
+
+
+
+
+
+ <li><a href="http://www.dippikill.com">
+									<img src="Dippikill-Logo.jpg" alt="Discover Dippikill" width="165" height="137" border="0" /></a>
+								        <h3>
+									<a href="http://www.dippikill.com">Need a vacation? <BR>Visit Dippikill!</a>
+									</h3>
+									<p>Over 800 acres of land located in the Adirondack Mountains. Campsites starting at $8, Lodges starting at $32, <a href=http://www.dippikill.com>Click here</a> to learn more!</p>
+									</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+
+ 	
+															                
+
+                              						</ul>
+
+<!-- <br><h1>The SA Blog</h1>
+									<div id="blogholder" style="padding:15px;"></div>
+									<p>&nbsp</p>
+<p>Read older blog posts <a href="http://www.ualbanysablog.blogspot.com">here</a>.</p> -->
+
+
+									</div>
+
+
+
+
+
+
+<div id="tab2" class="tab">
+									<ul class="news-list">
+									
+
+
+
+
+
+<li><a href="photos-blockparty2011.shtml">
+									<img src="images/johnson.jpg" width="165" height="137" border="0" /></a>
+									<h3>
+									<a href="https://www.facebook.com/media/set/?set=a.10150319118923204.330134.6264543203&type=1">World Within Reach Speaker Series</a>
+									</h3>
+                            						<p>Check out our photos from the Magic Johnson event!<br>&nbsp;</p>
+									</li>
+
+
+
+<li><a href="https://www.facebook.com/media/set/?set=a.10150295649298204.325623.6264543203">
+									<img src="images/blockpartythumb2.jpg" width="165" height="137" border="0" /></a>
+									<h3>
+									<a href="https://www.facebook.com/media/set/?set=a.10150295649298204.325623.6264543203">SA Block Party 2011</a>
+									</h3>
+                            						<p>Check out all the photos from the Block Party!<br>&nbsp;<br>&nbsp;</p>
+									</li> 
+
+
+
+
+
+									
+		
+									<li><a href="https://www.facebook.com/media/set/?set=a.10150350730263204.336255.6264543203&type=3">
+									<img src="images/lmfao.jpg" alt="FallFest with LMFAO" width="165" height="137" border="0" /></a>
+								        <h3>
+									<a href="https://www.facebook.com/media/set/?set=a.10150350730263204.336255.6264543203&type=3">FallFest 2011!</a>
+									</h3>
+									<p>Check out our photos from Far East Movement and LMFAO at FallFest 2011!<br>&nbsp;</p>
+									</li>
+
+
+									<li><a href="http://www.facebook.com/media/set/?set=a.10150635118563204.375643.6264543203&type=3">
+									<img src="images/comedycover.jpg" alt="SA Comedy Show" width="165" height="137" border="0" /></a>
+								        <h3>
+									<a href="http://www.facebook.com/media/set/?set=a.10150635118563204.375643.6264543203&type=3">SA Comedy Show</a>
+									</h3>
+									<p>Check out our photos from the SA Comedy Show!</p>
+									</li>
+
+
+
+
+<li><a href="https://www.facebook.com/media/set/?set=a.10150669845758204.379340.6264543203&type=1">
+									<img src="images/parkfestcover.jpg" alt="Parkfest 2012" width="165" height="137" border="0" /></a>
+								        <h3>
+									<a href="https://www.facebook.com/media/set/?set=a.10150669845758204.379340.6264543203&type=1">Parkfest 2012</a>
+									</h3>
+									<p>With Jadakiss, Fabolous, Ashanti, Lloyd Banks, Lloyd and more!</p>
+									</li>
+
+
+
+
+
+
+
+
+
+							                
+
+                              						</ul>
+									</div>
+
+
+
+
+
+
+								</div>
+
+								
+
+
+							</div>
+
+						</div>	
+
+<!-- <div class="roundme">
+
+<br><BR><br><h1>The SA Blog</h1>
+									<div id="blogholder" style="padding:15px;"></div>
+									<p>&nbsp</p>
+<p>Read older blog posts <a href="http://www.ualbanysablog.blogspot.com">here</a>.</p>
+
+
+<BR><BR>
+</div>
+
+	-->	
+						<!-- end content -->  
+				
+
+
+<!-- Nav Left Include, minus yellow box -->
+
+
+  </div>
+						 
+					  </div>
+					</div>
+					<!-- column -->
+					<div class="column">
+						
+            
+<center> 
+<br>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fualbanysa&amp;width=200&amp;height=300&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false&amp;appId=232486976859239" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:300px;" allowTransparency="true"></iframe><BR><a class="twitter-timeline" width="200" height="300" data-dnt="true" href="https://twitter.com/UAlbanySA" data-widget-id="375050959262478336" data-chrome="nofooter noscrollbar noavatars">Tweets by @UAlbanySA</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><!-- Bottom Include, minus yellow box -->
+
+
+
+
+
+                   
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- contaner end -->
+		<!-- sidebar start -->
+		
+<br />
+</center>
+
+            
+                    			<!---#include virtual="../templates_2009/includes_news/include_student_focus.shtml" -->
+
+			<!-- gray-box start -->
+<!---#include virtual="includes/include_contact_us.shtml" -->
+			<!-- gray-box end -->
+
+		</div>
+		<!-- sidebar end -->
+	</div>
+	<!--footer-->
+	<!--footer-->
+    <div style="clear:both"></div>
+	<div id="footer">
+		<div class="footer-holder">
+			<address>
+				<span>Student Association, University at Albany, State University of New York</span>
+				<span>Campus Center B84, 1400 Washington Avenue, Albany, NY 12222 | Phone (518) 442-5640</span>
+			</address>
+			<ul>
+				<li><a href="mailto:sa@albany.edu">Email SA</a></li>
+                <li><a href="mailto:nfahrenkopf@outlook.com">Email the Webmaster</a></li>
+				<li><a href="http://www.albany.edu/sunynyalert/">SUNY NY-Alert</a></li>
+				<li><a href="http://www.albany.edu/its/policies/3183.htm">Internet Privacy Policy</a></li>
+				<li><a href="http://www.albany.edu/emergency/index.shtml">Emergency Preparedness</a></li>
+			</ul>
+			<p>&copy; 2017 University at Albany Student Association</p>
+		</div><!--close div footer-holder-->
+<table width="275" border="0">
+  <tr>
+    <td><div align="right"><a href="http://www.facebook.com/UAlbanySA"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/facebook_icon1.jpg" alt="Facebook" border="0"/></a> 
+
+
+<a href="http://www.twitter.com/UAlbanySA"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/twitter_icon1.jpg" alt="Twitter" border="0"/></a> 
+
+
+<a href="http://feeds.feedburner.com/UAlbanySABlog"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/rss-feed.gif" alt="Feedburner"  border="0"/></a> 
+<a href="http://www.youtube.com/user/UAlbanySABlog/"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/youtube_icon1.jpg" alt="YouTube" border="0" /></a>
+</div></td>
+  </tr>
+  </table>
+	</div><!--close div footer-->
+</div><!--close div main-->
+
+
+<!-- Please Do Not Delete the SmartSource Data Collector TAG Section -->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+<!-- Please Do Not Delete the SmartSource Data Collector TAG Section -->
+
+
+ </body>
+</html>
+

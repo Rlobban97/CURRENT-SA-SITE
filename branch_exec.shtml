@@ -1,0 +1,14 @@
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Welcome to the Student Association E-Board!</h2>
+				
+
+				<p>The Executive Board is comprised of individuals responsible for carrying out the various day-to-day operations of the Student Association as explained above. Most Executive Board members hold office hours each week in the SA Office - Campus Center 116 - in order to accomplish their designated tasks. The President and Vice President are elected students, while the rest of the E-Board is appointed by the President and confirmed by the Senate. Some members of the E-Board (which include Deputies, Assistant Directors, Assistants and Interns) are instead hired by the President or designee. For more information about each department's plans for this year and contact information, click ...<a href=executive.shtml>here</a>.
+</p>
+
+
+
+
+
+
+<!--#include virtual="includes_navleft/include_navleft_executive.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
