@@ -672,7 +672,7 @@ End Alert Banner -->
 
 
 
- 
+ <!--
 
 <li><a href="http://www.albany.edu/alumni/ucan.php">
 									<img src="images/ucan.jpg" alt="UCAN" width="165" height="137" border="0" /></a>		        <h3>
@@ -680,7 +680,13 @@ End Alert Banner -->
 									<p>UAlbany Career Advisory Network is an online tool for you to connect to alumni working in your field. To find out more, <a href=http://www.albany.edu/alumni/ucan.php>click here</a>.  </p>
 								</li>
 
- 
+ -->
+
+ <li>
+                  <img src="images/BlockParty2017.jpg" alt="Block Party 2017" width="165" height="137" border="0" /></a>            <h3>
+                  <a href=http://www.albany.edu/alumni/ucan.php>Connect With Alumni with UCAN</a></h3>
+                  <p>UAlbany Career Advisory Network is an online tool for you to connect to alumni working in your field. To find out more, <a href=http://www.albany.edu/alumni/ucan.php>click here</a>.  </p>
+                </li>
 
 
 
