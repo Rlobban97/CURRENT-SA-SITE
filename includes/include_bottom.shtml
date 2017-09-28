@@ -1,0 +1,112 @@
+
+                   
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- contaner end -->
+		<!-- sidebar start -->
+		<script src="../../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+		
+		<div class="sidebar">
+			<!-- i-went start -->
+			<div class="i-want">
+				<h3>Learn More:</h3>
+				<ul>
+					<li><a href="http://www.albany.edu/studentassociation/aboutsa.shtml">What is Student Association?</a></li>
+					<li><a href="http://www.albany.edu/studentassociation/getinvolved.shtml">How do I get involved?</a></li>
+                    <li><a href="http://www.albany.edu/studentassociation/joinagroup.shtml">How do I join a group?</a></li>
+					<li><a href="http://www.albany.edu/studentassociation/startagroup.shtml">How do I start a group?</a></li>
+
+					
+				</ul>
+			</div>
+			<!-- i-want end -->
+            
+<a class="ask" href="http://www.albany.edu/studentassociation/contact.shtml"><img src="http://www.albany.edu/studentassociation/images/asksa.gif" width="132" height="47" alt="Ask SA" border="0"/></a>
+                 
+
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4, 
+  interval: 6000,
+  width: 175,
+  height: 250,
+  theme: {
+    shell: {
+      background: '#9ae4e8',
+      color: '#75377e'
+    },
+    tweets: {
+      background: '#0084b4',
+      color: '#ffffff',
+      links: '#333333'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'default'
+  }
+}).render().setUser('UAlbanySA').start();
+</script>                 
+<br />
+</center>
+
+            
+                    			<!---#include virtual="../templates_2009/includes_news/include_student_focus.shtml" -->
+
+			<!-- gray-box start -->
+<!---#include virtual="includes/include_contact_us.shtml" -->
+			<!-- gray-box end -->
+
+		</div>
+		<!-- sidebar end -->
+	</div>
+	<!--footer-->
+	<!--footer-->
+    <div style="clear:both"></div>
+	<div id="footer">
+		<div class="footer-holder">
+			<address>
+				<span>Student Association, University at Albany, State University of New York</span>
+				<span>Campus Center 116, 1400 Washington Avenue, Albany, NY 12222 | Phone (518) 442-5640</span>
+			</address>
+			<ul>
+				<li><a href="mailto:sa@albany.edu">Email SA</a></li>
+                <li><a href="mailto:nfahrenkopf@outlook.com">Email the Webmaster</a></li>
+				<li><a href="http://www.albany.edu/sunynyalert/">SUNY NY-Alert</a></li>
+				<li><a href="http://www.albany.edu/its/policies/3183.htm">Internet Privacy Policy</a></li>
+				<li><a href="http://www.albany.edu/emergency/index.shtml">Emergency Preparedness</a></li>
+			</ul>
+			<p>&copy; 2013 University at Albany Student Association</p>
+		</div><!--close div footer-holder-->
+<table width="275" border="0">
+  <tr>
+    <td><div align="right"><a href="http://www.facebook.com/UAlbanySA"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/facebook_icon1.jpg" alt="Facebook" border="0"/></a> 
+
+
+<a href="http://www.twitter.com/UAlbanySA"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/twitter_icon1.jpg" alt="Twitter" border="0"/></a> 
+
+
+<a href="http://feeds.feedburner.com/UAlbanySABlog"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/rss-feed.gif" alt="Feedburner"  border="0"/></a> <a href="http://www.youtube.com/user/UAlbanySABlog/"><img src="http://www.albany.edu/templates_2009_bridgeline/news_images/youtube_icon1.jpg" alt="YouTube" border="0" /></a></div></td>
+  </tr>
+  </table>
+	</div><!--close div footer-->
+</div><!--close div main-->
+
+
+<!-- Please Do Not Delete the SmartSource Data Collector TAG Section -->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+<!-- Please Do Not Delete the SmartSource Data Collector TAG Section -->
+
+
+ </body>
+</html>

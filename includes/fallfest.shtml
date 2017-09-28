@@ -1,0 +1,20 @@
+
+                          
+<!--#include virtual="include_top.shtml" -->
+
+						   <h2>FallFest with Third Eye Blind and featuring Mirk &amp; the New Familiars</h2>
+						   <p>The Student Association is proud to present FallFest with Third Eye Blind and featuring Mirk and the New Familiars on November 18, 2010 at the SEFCU Arena.</p>
+						   <p>More information on ticket sales (when they'll go on sale and how much) in the coming weeks.
+						     <script type="text/javascript">var d=new Date();
+					   var time=d.getHours();
+					   var day=d.getDate();
+					   if (time>=19 && day==10)
+					   {
+					  
+                            document.write("<iframe src='http://embed.scribblelive.com/7/5/9/7/' width='550' height='700' frameborder='0' style='border: 1px solid #000'></iframe>");
+                      }
+                             </script>
+                           </p>
+					      <!--#include virtual="../includes_navleft/include_navleft_index.shtml" -->
+<!--#include virtual="include_bottom.shtml" -->
+            

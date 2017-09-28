@@ -1,0 +1,20 @@
+<!--footer-->
+    <div style="clear:both"></div>
+	<div id="footer">
+		<span class="ads">
+			<a href="index.shtml"><img src="images/salogo.jpg" alt="SA Logo" border="0" /></a>
+		</span>
+		<div class="footer-holder">
+			<address>
+				<span>Student Association, University at Albany, State University of New York</span>
+				<span>Campus Center 116, 1400 Washington Avenue, Albany, NY 12222 • Phone (518) 442-5555</span>
+			</address>
+			<ul>
+				<li><a href="mailto:sa@albany.edu">Email Us</a></li>
+				<li><a href="http://www.albany.edu/sunynyalert/">SUNY NY-Alert</a></li>
+				<li><a href="http://www.albany.edu/its/policies/3183.htm">Internet Privacy Policy</a></li>
+				<li><a href="http://www.albany.edu/emergency/index.shtml">Emergency Preparedness</a></li>
+			</ul>
+			<p>&copy; 2009 University at Albany Student Association</p>
+		</div><!--close div footer-holder-->
+	</div><!--close div footer-->

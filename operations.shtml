@@ -1,0 +1,80 @@
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Operations Staff</h2>
+<p>The Student Association is supported by a group of dedicated operations staff including a Director of Operations, Assistant Director of Operations, Administrative Assistants, Ticket Window Staff and Summer Staff. Below, learn more about the SA Operations Staff. They can be reached in person in CC B84, or by phone at 518-442-5640.
+    <a name="director"></a>
+    <br />
+    <br />
+    <!-- <h3>Director of Operations</h3>
+<table><tr><TD valign=top><img src="images/julie.jpg"></td><td>&nbsp;</td>
+<td><b>Julie St. Amour-Glass -</b> I began working in this office as a student and my experiences as a student and a student employee convinced me that this was the place for me to call home. As the Director of Operations at Student Association I am one of a handful of non-student staff. Part of my job is to provide support and continuity through the years to the elected student leaders. 
+
+<br />
+<br />
+Among other things, my office processes disbursements, payroll, helps to oversee the Administrative Assistants and the Ticket Window, and the dissemination of massive amounts of information, provides assistance in conjunction with the Comptroller to group Presidents and Treasurers managing their SA-funded budgets, and prepares material for auditor review. I also serve on the Dippikill Board and oversee reservations made. Please stop by any time with any questions you may have about SA.
+<BR><BR>
+Julie St. Amour Glass<br>
+Director of Operations<br>
+Student Association, University at Albany<br>
+<a href=mailto:Jglass@albany.edu>Jglass@albany.edu</a>
+
+</td></tr></table>
+-->
+    
+    
+    <a name="asstdirector"></a>
+    <BR>
+    <BR>
+    <h3>Executive Office Manager</h3>
+    <table>
+        <tr>
+            <td><img src="images/nophoto.jpg"></td>
+            <td>&nbsp;</td>
+        <!--    <td valign=top> <b>Christine Lewandowski -</b> I started working at the Student Association in the fall of 2010 as an undergrad. My experience at SA began as an administrative assistant and ticket window associate. I graduated in 2012 with a bachelor's in fine arts and a dual minor in psychology and theatre. I also was very active in UAlbany's premier all female a capella group, Serendipity. After graduation I was absolutely ecstatic to be given the opportunity to move up to the Assistant Director of Operations position, and now Executive Office Manager. I currently oversee our front desk and administrative assistants as well as our ticket window and TW associates. My day to day tasks range from auditing our ticket window spreadsheets, handling daily income and working very closely with our staff up at Dippikill. I enjoy every minute of working here and my door is always open. Go Danes! </td> -->
+        </tr>
+    </table>
+    <a name="finance"></a>
+    <BR>
+    <BR>
+    <h3>Financial Manager</h3>
+    <table>
+        <tr>
+            <td><img src="images/nophoto.jpg"></td>
+            <td>&nbsp;</td>
+            <td valign=top> <b>TBD</b> Bio coming soon!</td>
+        </tr>
+    </table>
+    <a name="admin"></a>
+    <BR>
+    <BR>
+    <h3>Administrative Assistants</h3>
+    <!--
+<table>
+
+
+
+
+
+<tr><TD><img src="images/keating.jpg"></td><td>&nbsp;</td><td valign=top>
+<b>Lynn Keating -</b> Hi, my name is Lynn. I am currently a junior in the business school. I love working for SA and I'm a part of the UAlbany Debate Team. </td></tr>
+
+
+</table>
+-->
+    <!-- <a name="ticket"></a>
+<BR><BR>
+
+
+<h3>Ticket Window Staff</h3>
+
+
+<table>
+<tr><TD><img src="images/timmons.jpg"></td><td>&nbsp;</td><td valign=top>
+<b>Edmund Timmons, III -</b> Hello, My name is Edmund Timmons III. I'm currently a matriculating student at the University at Albany. I'm a member of Alpha Phi Alpha Fraternity, Incorporated. I'm a communication major, and sociology minor. I'm a senior here at the university, and I plan on continuing my education by  going to Graduate school focusing in communication. My career aspirations include becoming a Sargent of court officers in the supreme court, and becoming a music producer. In my leisure time I enjoy reading inspirational books, looking at stocks, playing NbA 2k, and strolling. One of my favorite quotes I always tell people" A smile is essential."</td></tr>
+
+
+</table>
+
+	-->
+    <br /> </p>
+<!--#include virtual="includes_navleft/include_navleft_ops.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
