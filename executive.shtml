@@ -1,151 +1,149 @@
 <!--#include virtual="includes/include_top.shtml" -->
 <h2>Executive Board</h2>
-<p>The Executive Board is comprised of a number of units and offices that provide the day to day operations of SA, signature programs, advocacy, and services for students. Some of the larger offices have Deputies, Assistant Directors, or Assistants. Click on an E-Board member to learn about their position, find out their plans for this year and contact information. Office hours for the executive branch officers of SA are held between the hours of 9 to 5 Monday through Thursday and 9 to 4 Friday; for specifics, refer to the Administrative Assistants at the front desk. The SA office can be reached at (518) 442-5640.
-    </p>
-    <br />
-    <br />
-    <h3>Executive Board Members</h3>
-    <table>
-        <tr>
-            <td><img src="images/Juju_F.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_pres.shtml">Jerlisa "Juju" Fontaine</a>
-                <br />CEO/President
-                <br><a href=mailto:jfontaine@albany.edu>jfontaine@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Mady_K.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_vp.shtml">Madeeha Khan</a>
-                <br />Vice President
-                <br><a href=mailto:mkhan8@albany.edu>mkhan8@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Langie_C.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Langie Cadesca</a>
-                <br />Chief of Staff to the President
-                <br><a href=mailto:lcadesca@albany.edu>lcadesca@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Andrew_C.jpg" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Andrew Cutrone</a>
-                <br />Executive Assistant
-                <br><a href=mailto:acutrone@albany.edu>acutrone@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Luisa_Segura.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Luisa Segura</a>
-                <br />Chief of Staff to the Vice President
-                <br><a href=mailto:lsegura@albany.edu>lsegura@albany.edu</a></td>
-        </tr>
-        <!-- <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_comm.shtml">Kristian Valentin
+<p>The Executive Board is comprised of a number of units and offices that provide the day to day operations of SA, signature programs, advocacy, and services for students. Some of the larger offices have Deputies, Assistant Directors, or Assistants. Click on an E-Board member to learn about their position, find out their plans for this year and contact information. Office hours for the executive branch officers of SA are held between the hours of 9 to 5 Monday through Thursday and 9 to 4 Friday; for specifics, refer to the Administrative Assistants at the front desk. The SA office can be reached at (518) 442-5640. </p>
+<br />
+<br />
+<h3>Executive Board Members</h3>
+<table>
+    <tr>
+        <td><img src="images/Juju_F.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_pres.shtml">Jerlisa "Juju" Fontaine</a>
+            <br />CEO/President
+            <br><a href=mailto:jfontaine@albany.edu>jfontaine@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Mady_K.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_vp.shtml">Madeeha Khan</a>
+            <br />Vice President
+            <br><a href=mailto:mkhan8@albany.edu>mkhan8@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Langie_C.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Langie Cadesca</a>
+            <br />Chief of Staff to the President
+            <br><a href=mailto:lcadesca@albany.edu>lcadesca@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Andrew_C.jpg" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Andrew Cutrone</a>
+            <br />Executive Assistant
+            <br><a href=mailto:acutrone@albany.edu>acutrone@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Luisa_Segura.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Luisa Segura</a>
+            <br />Chief of Staff to the Vice President
+            <br><a href=mailto:lsegura@albany.edu>lsegura@albany.edu</a></td>
+    </tr>
+    <!-- <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_comm.shtml">Kristian Valentin
 
 </a><br />Interim Director of Communications<br><a href=mailto:kivalentin@albany.edu>kivalentin@albany.edu</a></td></tr>
 
  -->
-        <tr>
-            <td><img src="images/Michael_Spellane.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_comp.shtml">Michael Spellane</a>
-                <br />Comptroller
-                <br><a href=mailto:mspellane@albany.edu>mspellane@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Joey_F.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_prog.shtml">Joey Fambrini</a>
-                <br />Director of Programming
-                <br> <a href=mailto:jfambrini@albany.edu>jfambrini@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Darien_Randolph.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_market.shtml">Darien Randolph
+    <tr>
+        <td><img src="images/Michael_Spellane.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_comp.shtml">Michael Spellane</a>
+            <br />Comptroller
+            <br><a href=mailto:mspellane@albany.edu>mspellane@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Joey_F.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_prog.shtml">Joey Fambrini</a>
+            <br />Director of Programming
+            <br> <a href=mailto:jfambrini@albany.edu>jfambrini@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Darien_Randolph.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_market.shtml">Darien Randolph
 </a>
-                <br />Director of Marketing
-                <br><a href=mailto:drandolph@albany.edu>drandolph@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Joel_Duran.JPG" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_informationtech.shtml">Joel Duran
+            <br />Director of Marketing
+            <br><a href=mailto:drandolph@albany.edu>drandolph@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Joel_Duran.JPG" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_informationtech.shtml">Joel Duran
 </a>
-                <br />Director of Information Technology
-                <br><a href=mailto:jduran3@albany.edu>jduran3@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Katherine_McDermott.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_files/executive_healthandsus.shtml">Katherine McDermott</a>
-                <br />Director of Health and Sustainability
-                <br><a href=mailto:kmcdermott@albany.edu>kmcdermott@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Ryan_Maestre.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Ryan Maestre</a>
-                <br />Director of Public Relations
-                <br><a href=mailto:RMaestre@Albany.edu>RMaestre@Albany.edu</a></td>
-        </tr>
-        <!--
+            <br />Director of Information Technology
+            <br><a href=mailto:jduran3@albany.edu>jduran3@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Katherine_McDermott.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_files/executive_healthandsus.shtml">Katherine McDermott</a>
+            <br />Director of Health and Sustainability
+            <br><a href=mailto:kmcdermott@albany.edu>kmcdermott@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Ryan_Maestre.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Ryan Maestre</a>
+            <br />Director of Public Relations
+            <br><a href=mailto:RMaestre@Albany.edu>RMaestre@Albany.edu</a></td>
+    </tr>
+    <!--
 <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_dippikill.shtml">Dale Henderson</a><br />Director of Dippikill Outreach<br><a href=mailto:dlhenderson@ualbanysa.org>dlhenderson@albany.edu</a></td></tr>
 
 -->
-        <!-- 
+    <!-- 
 
 <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_academic.shtml">Kylie Scheibling</a><br>Interim Director of Academic Affairs <br /><a href=mailto:kscheibling@albany.edu>kscheibling@albany.edu</a></td></tr> -->
-        <!-- <tr><td><img src="images/zieno.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_leg.shtml">Jamie Zieno</a><br>Director of Legislative Affairs<br /><a href=mailto:jzieno@ualbanysa.org>jzieno@ualbanysa.org</a></td></tr> -->
-        <tr>
-            <td><img src="images/Hallie_Landwehr.jpg" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_gender.shtml">Hallie Landwehr</a>
-                <br>Director of Gender and Sexuality Concerns
-                <br /><a href=mailto:hlandwehr@albany.edu>hlandwehr@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Roselynn_Frem.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Roselynn Frempong</a>
-                <br />Director of Community Engagement and Outreach
-                <br><a href=mailto:rfrempong@albany.edu>rfrempong@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Jazlin_Perez.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_groups.shtml">Jazlin Perez</a>
-                <br />Director of Student Group Affairs
-                <br><a href=mailto:jperez5@albany.edu>jperez5@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Aniel_Luna.jpg" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_mca.shtml">Aniel Luna</a>
-                <br>Director of Intercultural Affairs
-                <br /><a href=mailto:aaluna@albany.edu>aaluna@albany.edu</a></td>
-        </tr>
-        <tr>
-            <td><img src="images/Joe_DeSantis.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Joseph De Santis</a>
-                <br />Associate Director of Alumni Affairs
-                <br><a href=mailto:jdesantis2@albany.edu>jdesantis2@albany.edu</a></td>
-        </tr>
-        
-        <tr>
-            <td><img src="images/Kaylynn_E.png" width="150" height="150"></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.albany.edu/studentassociation/executive_market.shtml">Kaylynn Enright
+    <!-- <tr><td><img src="images/zieno.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_leg.shtml">Jamie Zieno</a><br>Director of Legislative Affairs<br /><a href=mailto:jzieno@ualbanysa.org>jzieno@ualbanysa.org</a></td></tr> -->
+    <tr>
+        <td><img src="images/Hallie_Landwehr.jpg" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_gender.shtml">Hallie Landwehr</a>
+            <br>Director of Gender and Sexuality Concerns
+            <br /><a href=mailto:hlandwehr@albany.edu>hlandwehr@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Roselynn_Frem.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Roselynn Frempong</a>
+            <br />Director of Community Engagement and Outreach
+            <br><a href=mailto:rfrempong@albany.edu>rfrempong@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Jazlin_Perez.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_groups.shtml">Jazlin Perez</a>
+            <br />Director of Student Group Affairs
+            <br><a href=mailto:jperez5@albany.edu>jperez5@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Aniel_Luna.jpg" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_mca.shtml">Aniel Luna</a>
+            <br>Director of Intercultural Affairs
+            <br /><a href=mailto:aaluna@albany.edu>aaluna@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Joe_DeSantis.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Joseph De Santis</a>
+            <br />Associate Director of Alumni Affairs
+            <br><a href=mailto:jdesantis2@albany.edu>jdesantis2@albany.edu</a></td>
+    </tr>
+    <tr>
+        <td><img src="images/Kaylynn_E.png" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_market.shtml">Kaylynn Enright
 </a>
-                <br />Associate Director of Civic Action
-                <br><a href=mailto:drandolph@albany.edu>kmenright@albany.edu</a></td>
-        </tr>
-        <!-- <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_outreach.shtml">Saben Durio
+            <br />Associate Director of Civic Action
+            <br><a href=mailto:drandolph@albany.edu>kmenright@albany.edu</a></td>
+    </tr>
+    <!-- <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_outreach.shtml">Saben Durio
 
 </a><br>Interim Director of Community Engagement and Outreach <br /><a href=mailto:sdurio@albany.edu>sdurio@albany.edu</a></td></tr> -->
-    </table>
-    <br /> 
+</table>
+<br />
 <!--#include virtual="includes_navleft/include_navleft_executive.shtml" -->
 <!--#include virtual="includes/include_bottom.shtml" -->
