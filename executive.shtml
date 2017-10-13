@@ -20,7 +20,7 @@
             <br><a href=mailto:mkhan8@albany.edu>mkhan8@albany.edu</a></td>
     </tr>
     <tr>
-        <td><img src="images/Langie_C.png" width="150" height="150"></td>
+        <td><img src="images/Langie_C.jpeg" width="150" height="150"></td>
         <td>&nbsp;</td>
         <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Langie Cadesca</a>
             <br />Chief of Staff to the President
@@ -29,16 +29,24 @@
     <tr>
         <td><img src="images/Andrew_C.jpg" width="150" height="150"></td>
         <td>&nbsp;</td>
-        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Andrew Cutrone</a>
+        <td><a href="http://www.albany.edu/studentassociation/executive_comm.shtml">Andrew Cutrone</a>
             <br />Executive Assistant
             <br><a href=mailto:acutrone@albany.edu>acutrone@albany.edu</a></td>
     </tr>
     <tr>
         <td><img src="images/Luisa_Segura.png" width="150" height="150"></td>
         <td>&nbsp;</td>
-        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Luisa Segura</a>
+        <td><a href="http://www.albany.edu/studentassociation/executive_cos_vp.shtml">Luisa Segura</a>
             <br />Chief of Staff to the Vice President
             <br><a href=mailto:lsegura@albany.edu>lsegura@albany.edu</a></td>
+    </tr>
+    
+    <tr>
+        <td><img src="images/Manik_E.jpeg" width="150" height="150"></td>
+        <td>&nbsp;</td>
+        <td><a href="http://www.albany.edu/studentassociation/executive_chiefstrategist.shtml">Manik Elah</a>
+            <br />Chief Strategist
+            <br><a href=mailto:mshibata@albany.edu>mshibata@albany.edu</a></td>
     </tr>
     <!-- <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_comm.shtml">Kristian Valentin
 
@@ -78,15 +86,15 @@
     <tr>
         <td><img src="images/Katherine_McDermott.png" width="150" height="150"></td>
         <td>&nbsp;</td>
-        <td><a href="http://www.albany.edu/studentassociation/executive_files/executive_healthandsus.shtml">Katherine McDermott</a>
+        <td><a href="http://www.albany.edu/studentassociation/executive_healthandsus.shtml">Katherine McDermott</a>
             <br />Director of Health and Sustainability
             <br><a href=mailto:kmcdermott@albany.edu>kmcdermott@albany.edu</a></td>
     </tr>
     <tr>
         <td><img src="images/Ryan_Maestre.png" width="150" height="150"></td>
         <td>&nbsp;</td>
-        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Ryan Maestre</a>
-            <br />Director of Public Relations
+        <td><a href="http://www.albany.edu/studentassociation/executive_academic.shtml">Ryan Meastre</a>
+            <br />Director of Public relations
             <br><a href=mailto:RMaestre@Albany.edu>RMaestre@Albany.edu</a></td>
     </tr>
     <!--
@@ -107,7 +115,7 @@
     <tr>
         <td><img src="images/Roselynn_Frem.png" width="150" height="150"></td>
         <td>&nbsp;</td>
-        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Roselynn Frempong</a>
+        <td><a href="http://www.albany.edu/studentassociation/executive_outreach.shtml">Roselynn Frempong</a>
             <br />Director of Community Engagement and Outreach
             <br><a href=mailto:rfrempong@albany.edu>rfrempong@albany.edu</a></td>
     </tr>
@@ -128,17 +136,17 @@
     <tr>
         <td><img src="images/Joe_DeSantis.png" width="150" height="150"></td>
         <td>&nbsp;</td>
-        <td><a href="http://www.albany.edu/studentassociation/executive_cos.shtml">Joseph De Santis</a>
+        <td><a href="http://www.albany.edu/studentassociation/executive_alumniaffairs.shtml">Joseph De Santis</a>
             <br />Associate Director of Alumni Affairs
             <br><a href=mailto:jdesantis2@albany.edu>jdesantis2@albany.edu</a></td>
     </tr>
     <tr>
         <td><img src="images/Kaylynn_E.png" width="150" height="150"></td>
         <td>&nbsp;</td>
-        <td><a href="http://www.albany.edu/studentassociation/executive_market.shtml">Kaylynn Enright
+        <td><a href="http://www.albany.edu/studentassociation/executive_leg.shtml">Kaylynn Enright
 </a>
             <br />Associate Director of Civic Action
-            <br><a href=mailto:drandolph@albany.edu>kmenright@albany.edu</a></td>
+            <br><a href=mailto:kmenright@albany.edu>kmenright@albany.edu</a></td>
     </tr>
     <!-- <tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td><a href="http://www.albany.edu/studentassociation/executive_outreach.shtml">Saben Durio
 
