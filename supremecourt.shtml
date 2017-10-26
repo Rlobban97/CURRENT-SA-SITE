@@ -1,31 +1,119 @@
-<!--#include virtual="includes/include_top.shtml" --><h2>SA Supreme Court</h2>								<p>The SA Supreme Court is comprised of students appointed by the President and then confirmed by the SA Senate. The Court is the final say in any disputes that arise within the purveiw of the Student Association. Students can appeal to the Court if they feel that a group or a person has violated the Constitution or By-Laws of the Student Association and their action or decision needs to be overturned or corrected.                
-
-<br /><br />
-
-
-Decisions of the Court will be posted <a href=supremecourt_decisions.shtml>here</a>.
-
-<BR><BR>
-
-<h3>Supreme Court Members</h3>
-
+<h2>
+  SA Supreme Court
+</h2>
+<p>
+  The SA Supreme Court is comprised of students appointed by the
+  President and then confirmed by the SA Senate. The Court is the
+  final say in any disputes that arise within the purveiw of the
+  Student Association. Students can appeal to the Court if they
+  feel that a group or a person has violated the Constitution or
+  By-Laws of the Student Association and their action or decision
+  needs to be overturned or corrected.
+</p>
+<p>
+  Decisions of the Court will be posted <a href=
+  "supremecourt_decisions.shtml">here</a>.
+</p>
+<h3>
+  Supreme Court Members
+</h3>
 <table>
-<tr><td><img src="images/nophoto.jpg"></td>
-<td>&nbsp;</td>
-<td>Chief Justice Nick Butler<br />
-<!-- <br><a href=mailto:zuddin@albany.edu>zuddin@albany.edu</a> --></td></tr>
-
-<tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td>Senior Associate Justice David Solimeno<br /><!-- <br><a href=mailto:zuddin@albany.edu>zuddin@albany.edu</a> --></td></tr>
-
-<tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td>Associate Justice Nicholas Marricco<br /><!-- <br><a href=mailto:zuddin@albany.edu>zuddin@albany.edu</a> --></td></tr>
-
-<tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td>Associate Justice Katherine Diab<br /><!-- <br><a href=mailto:zuddin@albany.edu>zuddin@albany.edu</a> --></td></tr>
-
-<tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td>Associate Justice Gabriella Cavanagh<br /><!-- <br><a href=mailto:zuddin@albany.edu>zuddin@albany.edu</a> --></td></tr>
-
-<tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td>Associate Justice John Henry Cushman<br /><!-- <br><a href=mailto:zuddin@albany.edu>zuddin@albany.edu</a> --></td></tr>
-
-<tr><td><img src="images/nophoto.jpg"></td><td>&nbsp;</td><td>Associate Justice Elizabeth Skovron<br /><!-- <br><a href=mailto:zuddin@albany.edu>zuddin@albany.edu</a> --></td></tr>
-
-
-</table>				  <br />				  </p><!--#include virtual="includes_navleft/include_navleft_court.shtml" --><!--#include virtual="includes/include_bottom.shtml" -->
+  <tr>
+    <td>
+      <img src="images/nophoto.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      Chief Justice Mónica De Jesús Ramírez<br />
+      <br />
+      <a href=
+      "mailto:mrdejesus@albany.edu">mrdejesus@albany.edu</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/nophoto.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      Deputy Chief Jessika L Ball<br />
+      <br />
+      <a href="mailto:jlball@albany.edu">jlball@albany.edu</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/nophoto.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      Associate Justice Jonathan P Mulhern<br />
+      <br />
+      <a href="mailto:jmulhern@albany.edu">jmulhern@albany.edu</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/nophoto.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      Associate Justice Sydney D Flowers<br />
+      <br />
+      <a href="mailto:sflowers@albany.edu">sflowers@albany.edu</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/nophoto.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      Associate Justice Nazia Mian<br />
+      <br />
+      <a href="mailto:nmian@albany.edu">nmian@albany.edu</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/nophoto.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      Associate Justice: Zachariah A Levitan<br />
+      <br />
+      <a href="mailto:zlevitan@albany.edu">zlevitan@albany.edu</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/nophoto.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      Associate Justice: Kate E Cunningham<br />
+      <br />
+      <a href=
+      "mailto:kcunningham2@albany.edu">kcunningham2@albany.edu</a>
+    </td>
+  </tr>
+</table>
+<p>
+  <br />
+  <!--#include virtual="includes_navleft/include_navleft_court.shtml" -->
+   <!--#include virtual="includes/include_bottom.shtml" -->
+</p>
