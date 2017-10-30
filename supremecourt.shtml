@@ -1,3 +1,4 @@
+<!--#include virtual="includes/include_top.shtml" -->
 <h2>
   SA Supreme Court
 </h2>
@@ -114,6 +115,5 @@
 </table>
 <p>
   <br />
-  <!--#include virtual="includes_navleft/include_navleft_court.shtml" -->
-   <!--#include virtual="includes/include_bottom.shtml" -->
 </p>
+<!--#include virtual="includes_navleft/include_navleft_court.shtml" --><!--#include virtual="includes/include_bottom.shtml" --> 
