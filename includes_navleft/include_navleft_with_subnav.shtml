@@ -1,0 +1,34 @@
+<!-- column-links -->
+						<ul class="column-links">
+							<li><a href="student_accounts.shtml">Student Accounts Home</a></li>
+							<li><a href="about_student_accounts.shtml">About Student Accounts</a></li>
+							<li><a href="bills_student_accounts.shtml">Bills and Payments</a>
+								<ul>
+									<li>
+									<a href="paying_student_accounts.shtml">Paying Your Bill</a>									</li>
+									<li>
+									<a href="understanding_student_accounts.shtml">Understanding E-Bills</a>									</li>								
+								</ul>
+							</li>
+							<li><a href="#">Refunds</a></li>
+							<li><a href="#">Residency Requirements</a></li>
+							<li><a href="#">Emergency Loans</a></li>
+							<li><a href="#">Cost of Attendance</a></li>
+							<li><a href="#">Student Accounts Calendar</a></li>
+							<li><a href="#">Frequenlty Asked Questions</a></li>
+					    </ul>
+                        <table width="200" border="0">
+                          <tr>
+                            <td><div align="center"><a href="http://www.facebook.com/UAlbanySA"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcS6IfUP61Gp2s3kIYWqH7B1soErORzB912xKSXoy4sk9WPMFKw&amp;t=1&amp;usg=__p0llwAKhvzyuXAM2MeHc9jCckQ0=" alt="Facebook" width="100" height="100" border="0"/></a> </div></td>
+                          </tr>
+                          <tr>
+                            <td><div align="center"><a href="http://www.twitter.com/UAlbanySA"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcRoHLcoTIb3uki03hi-AUhV1_XMHuUmHiYMYuqjP10DMpFKK0k&amp;t=1&amp;usg=__dAgHFGGDgihztpkWziRFScLDS7Y=" alt="Twitter" width="100" height="98" border="0"/></a> </div></td>
+                          </tr>
+                          <tr>
+                            <td height="111"><div align="center"><a href="http://feeds.feedburner.com/UAlbanyStudentAssociation"><img src="http://t3.gstatic.com/images?q=tbn:ANd9GcS4BhGdnb71qZBrCIX1_YjnN5PwG_MILDDIW1pnK7QheJijwEE&amp;t=1&amp;usg=__QBLF56IXYqYbqrc6QL_zFgCN09k=" alt="Feedburner" width="100" height="100" border="0"/></a> </div></td>
+                          </tr>
+                          <tr>
+                            <td height="102"><div align="center"><a href="emaillist.shtml"> <img src="http://t2.gstatic.com/images?q=tbn:ANd9GcSlk8umecxCSo8butNo7UY3uNUsuNteu8oX0QmO6Zb6EQknnDQ&amp;t=1&amp;usg=__vJEIcFGIjMZlaEGIHo4WKyjXenA=" alt="Email" width="100" height="100" border="0"/> </a></div></td>
+                          </tr>
+                        </table>
+                        <p>&nbsp;</p>
