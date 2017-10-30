@@ -1,0 +1,12 @@
+<!-- column-links -->
+	<ul class="column-links-alt">
+		<li><a href="index.shtml">Home</a></li>
+		<li><a href="about.shtml">About</a></li>
+		<li><a href="academics.shtml">Academic Programs</a></li>
+		<li><a href="departments.shtml">Departments at a Glance</a></li>
+		<li><a href="degrees.shtml">School Degrees</a></li>
+		<li><a href="admissions">Admissions</a></li>
+		<li><a href="centers.shtml">Centers, Institutes &amp; Research Centers</a></li>
+		<li><a href="news_and_events.shtml">School News and Events</a></li>
+		<li><a href="support_the_school.shtml">Support the School</a></li>
+	</ul>

@@ -1,0 +1,217 @@
+/* Home Page CSS (commented) 
+slightly modified for consistency
+
+*/
+
+/*	GENERAL NOTES:
+		- "display: inline" following a float is redundant, but it avoids IE6's notorious "double margin bug"
+*/
+
+
+body, html {
+	background-color: #F7F2DC;
+	padding: 0;
+	margin: 0;
+	text-align: center; /* crucial for horiz page centering */
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;	/* Sets all browsers & platforms to a common default type size */
+	font-size: .85em;	/* and then converts it to em's so even IE can text zoom for accessibility */
+	color: #000;
+}
+
+/* Utilities */
+div.clear {		/* Used as a common layout tool for clearing floats. there are a series of redundant rules to ensure consistant display */
+	clear: both;
+	font-size: 1px;
+	line-height: 1px;
+	height: 0;
+	visibility: hidden;
+}
+img, a img {
+	border: none;
+	display: block;
+}
+a {		/* These 3 rules are for default link display */
+	text-decoration: none;
+}
+a:link, a:visited {
+	color: #000;
+}
+a:hover {
+	color: #999;
+}
+
+/* Main Layout */
+#wrap {
+	width: 755px;
+	margin: 0 auto;		/* crucial for horiz page centering */
+	text-align: left;
+	background: #FFF url(../images/homeStripesBkgd.gif) repeat-y 0 0; /* creates sidebar borders that will always continue to the bottom of the white area */
+}
+
+/* IE Box Model Bug */
+* html div {
+	width: 755px; 
+	w\idth: 754px;
+}
+
+/* Top Bar */
+#top {	/* Top Purple Header Bar */
+	height: 341px;
+	/* background-color:#330066; */
+}
+img#logo {	/* Top UAlbany logo */
+	float: left;
+	display: inline;
+	margin: 16px 0 0 13px;
+}
+img#SALogo { /* SA Logo */
+	float: right;
+	display: inline;
+	margin: 5px 25px 0 0;
+}
+
+label {
+	display: none; /* labels are needed for accessibilty, but dont need to be visible unless using a screen reader */
+}
+#searchBox input {
+	font-size: 10px;
+}
+
+
+/* Essential layout rules for top left nav buttons */
+#leftNav {
+	float: left;
+	display: inline;
+	width: 155px;
+	margin: 9px 0 0 9px;
+}
+#leftNav ul {
+	margin: 0 0 8px;
+	padding: 0;
+	list-style: none;
+}
+#leftNav li {
+	margin: 0 0 1px;
+	padding: 0;
+}
+#leftNav li a {
+	display: block;
+	text-decoration: none;
+	padding: 3px 2px 6px 6px; /* less padding on top to compensate for IE rendering text too low in its line-height, still looks acceptable in other browsers */
+	font: 0.85em/1em Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-color: #FBF9EF;
+}
+#leftNav li a.mainLink {
+	background-color: #F7F2DC; /* Slight color difference in top 4 links, as per layout PSD */
+}
+#leftNav li a:hover { /* Rollover effect */
+	color: #FFF;
+	background-color: #E1C42E;
+}
+
+
+
+/* Main Navigation */
+/* area that contains the gold and white main nav links - width and float are crucial for laout */
+div#mainNav {
+	width: 755px;
+	float: left;
+}
+/* Essential layout rules for main nav buttons */
+#mainNav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#yellowNavBar li {
+	margin: 0;
+	padding: 0;
+	padding-left:0px;
+	padding-right:0px;
+	line-height: 20px;
+	display: inline;
+	text-transform: uppercase;
+	border-left: 1px solid #000;
+}
+#mainNav li.firstLink { /* used on the first link in each list to remove left border and add padding */
+	border-left: none;
+	padding-left: 8px;
+}
+#mainNav a {
+	padding: 0 12px;
+	font-size: 10px;
+}
+#yellowNavBar {	/* adds yellow background to top main nav buttons */
+	background-color: #E1C42E;
+}
+
+#whiteNavBar li {
+	margin: 0;
+	padding: 0;
+	padding-left:1px;
+	padding-right:1px;
+	line-height: 20px;
+	display: inline;
+	text-transform: uppercase;
+	border-left: 1px solid #000;
+}
+
+#whiteNavBar {
+	border-bottom: 1px solid #E1C42E; background-color: #FFF; /* Better looking in IE (virtical centering) */
+}
+/* Main Nav rollovers */
+#yellowNavBar a:hover {
+	color: #FFF;
+}
+#whiteNavBar a:hover {
+	color: #E1C42E;
+}
+
+
+
+/* Footer */
+#footer { background-color:#FFFFFF;
+	height:45px;
+	clear: both; /* clears floated layout elements above */
+	padding: 10px 0 0 10px;
+	text-align: center;
+	width:755px; margin: 0 auto;
+}
+/* following 3 rules are for the 'quick links' form */
+div#footerSelect {
+	width: 164px;
+	float: left;
+	display: inline;
+	margin: 0;
+}
+#footerSelect form {
+	margin: 0;
+}
+#footerSelect select {
+	width: 150px;
+	margin: 4px 0 0;
+}
+#footerRight { /* area for all footer text on the right side */
+	float: left;
+	display: inline;
+	margin: 0;
+	width:568px;
+	border-left: 1px solid #CBAF42;
+}
+#footerRight p { /* footer text on the right side */
+	margin: 0 0 0 8px;
+	font-size: 0.8em;
+	color: #433364;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#footerRight a {
+	text-decoration: none;
+}
+#footerRight a:link, #footerRight a:visited {
+	color: #B22617;
+}
+#footerRight a:hover {
+	color: #8E7A99;
+}

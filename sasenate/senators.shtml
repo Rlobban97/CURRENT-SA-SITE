@@ -1,0 +1,288 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+<h2>2015-2016 Student Senators  </h2>
+                <center>
+				<p>The Student Association Senate is comprised of Student Senators elected from the various<br />
+				  living areas of the University at Albany by their residents and Student Senators elected at-large<br />
+				  by the entire student body. The number of Student Senators is based upon the total number of<br />
+				  undergraduate students as well as the population of the various living areas. A reapportionment<br />
+				  is done each year to ensure that all students are properly represented...</p>
+			
+
+
+
+<p align="center">Jump to Living Area Senators: <BR><a href="#atlarge">At-Large</a> - <a href="#indian">Indian</a> - <a href="#state">State</a> - <a href="#colonial">Colonial</a> - <a href="#dutch">Dutch</a><BR><a href="#alumni">Alumni</a> - <a href="#empire">Empire</a> - <a href="#freedom">Freedom</a> - <a href="#liberty">Liberty</a> - <a href="#offcampus">Off Campus</a></p>
+				
+<BR>
+<p align="center">Jump to Academic Division Senators: <BR><a href="#science">Applied/Natural Sciences</a> - <a href="#business">Business/Management</a> <BR> <a href="#humanities">Humanities</a> - <a href="#govt">Law/Government</a> - <a href="#social">Social Sciences - <a href="#firstyear">First Year Students</a></p>
+
+
+<p>
+
+<a name="atlarge"></a>
+				
+
+<table width=30%>
+					
+<tr>
+<td><b><u>At-Large</u></b></td>
+</tr>
+     
+<script type="text/javascript">
+masterlist('L');
+</script>
+
+</table>
+               
+<br><BR>
+
+<a name="indian"></a>
+				
+<table width=30%>
+					
+<tr>
+<td><b><u>Indian Quad</u></b></td>
+</tr>
+                        
+                
+<script type="text/javascript">
+masterlist('I');
+</script>
+</table>
+               
+
+
+<br><BR>
+
+<a name="state"></a>
+				
+<table width=30%>
+<tr><td><b><u>State Quad</u></b></td></tr>
+                          
+                
+<script type="text/javascript">
+masterlist('S');
+</script>
+</table>
+                               
+
+
+<br><BR>
+
+<a name="colonial"></a>
+				
+<table width=30%>
+<tr>
+<td><b><u>Colonial Quad</u></b></td>
+</tr>
+                          
+                
+<script type="text/javascript">
+masterlist('C');
+</script>
+</table>
+                                
+
+
+<br><BR>
+
+<a name="dutch"></a>
+				
+<table width=30%><tr><td><b><u>Dutch Quad</u></b></td>
+</tr>
+                         
+                
+<script type="text/javascript">
+masterlist('D');
+</script>
+</table>
+                                
+
+
+
+<br><BR>			
+
+<a name="alumni"></a>
+				
+<table width=30%>
+<tr><td><b><u>Alumni Quad</u></b></td>
+</tr>
+
+<script type="text/javascript">
+masterlist('A');
+</script>
+</table>               
+                                
+
+
+<br><BR>
+
+<a name="empire"></a>
+				
+<table width=30%>
+<tr><td><b><u>Empire Commons</u></b></td></tr>
+<script type="text/javascript">
+masterlist('E');
+</script>
+</table>                
+                                
+
+
+<br><BR>
+
+<a name="freedom"></a>
+				
+<table width=30%>
+<tr>
+<td><b><u>Freedom</u></b></td></tr>
+
+<script type="text/javascript">
+masterlist('F');
+</script>
+</table>
+   
+
+<br><BR>
+
+<a name="liberty"></a>
+				
+<table width=30%>
+<tr>
+<td><b><u>Liberty Terrace</u></b></td></tr>
+
+<script type="text/javascript">
+masterlist('T');
+</script>
+</table>
+                            
+
+
+<br><BR>
+
+<a name="offcampus"></a>
+
+<table width=30%><tr>
+<td><b><u>Off Campus</u></b>
+</td>
+</tr>
+
+<script type="text/javascript">
+masterlist('O');
+</script>
+</table>
+ 
+
+
+
+<br><BR>
+
+<a name="science"></a>
+
+<table width=30%><tr>
+<td><b><u>Applied/Natural Sciences</u></b>
+</td>
+</tr>
+
+<script type="text/javascript">
+masterlist('P');
+</script>
+</table>
+ 
+
+
+<br><BR>
+
+<a name="business"></a>
+
+<table width=30%><tr>
+<td><b><u>Business and Management</u></b>
+</td>
+</tr>
+
+<script type="text/javascript">
+masterlist('B');
+</script>
+</table>
+ 
+
+
+
+<br><BR>
+
+<a name="humanities"></a>
+
+<table width=30%><tr>
+<td><b><u>Humanities</u></b>
+</td>
+</tr>
+
+<script type="text/javascript">
+masterlist('H');
+</script>
+</table>
+ 
+
+
+
+<br><BR>
+
+<a name="govt"></a>
+
+<table width=30%><tr>
+<td><b><u>Law and Government</u></b>
+</td>
+</tr>
+
+<script type="text/javascript">
+masterlist('G');
+</script>
+</table>
+ 
+
+
+
+<br><BR>
+
+<a name="social"></a>
+
+<table width=30%><tr>
+<td><b><u>Social Sciences</u></b>
+</td>
+</tr>
+
+<script type="text/javascript">
+masterlist('Z');
+</script>
+</table>
+ 
+
+
+<br><BR>
+
+<a name="firstyear"></a>
+
+<table width=30%><tr>
+<td><b><u>First Year Students</u></b>
+</td>
+</tr>
+
+<script type="text/javascript">
+masterlist('Y');
+</script>
+</table>
+                
+           
+
+
+                 
+                
+</p>
+			</center>
+            
+			
+
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

@@ -1,0 +1,68 @@
+
+<!--#include file="includes/ss_top.html" -->
+
+
+			
+			
+			<h2>Welcome to the SA Senate website! </h2>
+				<!-- <div id="body"> -->
+				<p>
+				<table width=80% border=3 align=center><tr>
+				  <td align="center">
+				  
+				<!--#config timefmt="%A"-->		 
+				<!--#if expr="$DATE_LOCAL = Wednesday"-->
+					The SA Senate will be in session at 8PM today 
+					<!--#config timefmt="%A %B %d %Y" --><!--#echo var="DATE_LOCAL" -->.
+				<!--#else -->				
+				The SA Senate stands adjourned until   
+				<!--#config timefmt="%b"-->		 
+				<!--#if expr="$DATE_LOCAL = Oct"-->
+					<!--#config timefmt="%e"-->
+						<!--#if expr="$DATE_LOCAL < 24"-->8:00pm on October 24th.
+						<!--#elif expr="$DATE_LOCAL < 31"-->8:00pm on October 31st.<!--#endif-->				   
+				<!--#elif expr="$DATE_LOCAL = Nov"-->
+					<!--#config timefmt="%e"-->
+						<!--#if expr="$DATE_LOCAL < 7"-->8:00pm on November 7th.
+						<!--#elif expr="$DATE_LOCAL < 21"-->8:00pm on November 21st.
+						<!--#elif expr="$DATE_LOCAL < 28"-->8:00pm on November 28th.
+						<!--#endif-->				   
+				<!--#elif expr="$DATE_LOCAL = Nov"-->
+					<!--#config timefmt="%e"-->
+						<!--#if expr="$DATE_LOCAL < 5"-->8:00pm on December 5th.<!--#endif-->
+				 		<!--#else -->next semester.
+				<!--#endif-->  
+				<!--#endif-->
+				
+				</td>
+				</tr></table>
+				</p>
+				<!-- </div> -->
+			
+			<br />
+			
+				<div id = "body">
+				
+				<p>The Student Association Senate acts as the legislative branch of the Student Association, and is directly charged with several functions that are critical to the ongoing success of the Student Association. The Senate works in conjunction with the President's Office and the Board of Finance in order to allocate and budget the nearly $2 million in Student Activity Fee revenues to the wide range of student groups, services and programs that the Student Association provides each year. The Senate is further charged with ensuring that each area of the Student Association receives a budget that is suited to their needs, and also that each group, service and office is operating and functioning properly.</p>
+				
+				<p>The Senate currently has four standing committees on which its members further serve the student body. You can learn more about each committee by clicking on the links labeled: "Rules and Operations", "Governmental Affairs", "Appropriations", and "University Outreach". Each and every committee strives to maintain the Student Association's effectiveness throughout the year while also ensuring that the Student Association properly represents the students that it serves to outside bodies. </p>
+
+<p>The Senate is comprised of at-large senators that are elected each spring and living area senators that are elected in the fall. These representatives are here to serve the entire undergraduate population and to foster and promote student life on campus. We work with the university's faculty and administration to ensure that every student's needs are met on issues ranging from parking and dining to class registration and housing issues. You can always turn to the Student Association Senate with any concerns or questions that you are unable to resolve. 
+</p>
+
+
+
+				</div>
+		</div>				
+			
+	
+		
+		
+			
+			<div style="clear:both"></div>				
+						
+	</div>
+</div> <!--end of wrap div-->
+	<div id = "foot_image"></div>	
+			
+<!--#include file="includes/ss_bottom.html" -->	

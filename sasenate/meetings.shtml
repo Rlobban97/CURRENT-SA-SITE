@@ -1,0 +1,29 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Meetings</h2> 
+				<p>			
+                Senate: Wednesdays at 8:00PM - Campus Center Room 375 (for Fall 2010)<br />
+                </p>
+<!--
+                  <a href="coc.shtml">Committee of Chairmen</a>: Tuesdays at 6PM<br />
+
+                  <a href="ro.shtml">Rules and Operations Committee</a>: Wednesdays at 7PM<br />
+
+                  <a href="ga.shtml">Governmental Affairs Committee</a>: Tuesdays at 8PM<br />
+
+                  <a href="app.shtml">Appropriations Committee</a>: Thursdays at 7PM<br />
+
+                  <a href="uoc.shtml">University Outreach Committee</a>: Tuesdays at 7PM<br />
+<br />
+*All meetings are held in the Student Association Office - Campus Center 116, unless otherwise noted.<br />
+<br />
+*The Senate and all committees meet weekly when classes are in session, but this is subject to change. Always double check with the chair of the committee if you're not 100% sure the committee is meeting.
+</p>
+
+
+				-->
+                
+			
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

@@ -1,0 +1,17 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Committee on Community Engagement and Outreach </h2>
+				<p>The Committee on Community Engagement and Outreach is responsible for finding ways to implement and foster community at the University as well as seek out ways to build relationships with the Albany community at-large.</p>
+                <p>
+<table>
+					<tr>
+						<td><b><u>The CEO Committee:</u></b></td>
+					</tr>
+                          <script type="text/javascript">committee(6);</script>
+                </table>
+
+				</p>
+			
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

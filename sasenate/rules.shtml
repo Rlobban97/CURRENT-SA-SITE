@@ -1,0 +1,20 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Committee on Rules and Administration</h2>
+				<p>The Committee considers all matters related to University Governance, with all of its members serving dully as University Senators. The Committee acts as liaison between the students and the various governance bodies at the university. They are also responsible for reviewing proposed Student Association policy changes.</p>
+               
+                <p>
+
+<table>
+					<tr>
+						<td><b><u>Rules and Administration Committee:</u></b></td>
+					</tr>
+                          <script type="text/javascript">committee(5);</script>
+                </table>
+</p>
+			
+                
+			
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

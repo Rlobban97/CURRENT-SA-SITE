@@ -1,0 +1,18 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Governmental Affairs Committee </h2>
+				<p>The eight members of the Governmental Affairs Committee serve, in conjunction with the President and the Senate Chair, as liaisons and representatives of the Senate to governing bodies outside of the Student Association, namely the University Senate. Members of this committee also serve as the student voting members of the University Senate, which sets various academic requirements and policies for the University.</p>
+                <p>
+
+<table>
+					<tr>
+						<td><b><u>Governmental Affairs Committee:</u></b></td>
+					</tr>
+                          <script type="text/javascript">committee(7);</script>
+                </table>
+</p>
+				
+                
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

@@ -1,0 +1,26 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+<center>
+<script type="text/javascript">
+
+var bill;
+var begin;
+
+begin = location.search.indexOf("bill=");
+if (begin >0 )
+{
+
+bill = location.search.substring(begin+5,location.search. length);
+bill = unescape(bill);
+
+billresult(bill);
+
+
+}
+
+</script>
+		</center>	
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+    

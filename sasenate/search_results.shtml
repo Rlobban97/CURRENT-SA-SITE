@@ -1,0 +1,19 @@
+<!--#include virtual="includes/include_top.shtml" -->
+
+
+<h1>Search Results</h1>  
+
+<!--BEGIN Google Search Results -->
+<div id="srchResult" style="width:400px;">                                             
+<div id="cse-search-results"></div>
+<script type="text/javascript">
+  var googleSearchIframeName = "cse-search-results";
+  var googleSearchFormName = "cse-search-box";
+  var googleSearchFrameWidth = 540;
+  var googleSearchDomain = "www.google.com";
+  var googleSearchPath = "/cse";
+</script>
+<script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
+</div>
+<!--#include virtual="includes_navleft/include_navleft_index.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->

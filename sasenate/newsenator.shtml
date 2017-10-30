@@ -1,0 +1,26 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<script type="text/javascript">
+
+
+var senator;
+var begin;
+
+begin = location.search.indexOf("senator=");
+if (begin >0 )
+{
+
+senator = location.search.substring(begin+8,location.search. length);
+senator = unescape(senator);
+
+newbio(senator);
+}
+
+</script>
+			
+	
+			
+			
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

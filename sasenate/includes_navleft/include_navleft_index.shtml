@@ -1,0 +1,37 @@
+  </div>
+						 
+					  </div>
+					</div>
+					<!-- column -->
+					<div class="column">
+						<!-- column-links -->
+
+
+<!-- column-links -->
+	<ul class="column-links-alt">
+    	<li><a href="aboutsa.shtml">About SA</a></li>
+		<li><a href="">News</a></li>
+        <li><a href="calendar.shtml">Event Calendar</a></li>
+        <li><a href="newsletter.shtml">Monthly Newsletter</a></li>
+        <li><a href="http://www.facebook.com/pages/UAlbany-Student-Association/6264543203">
+<img src="/templates_2009/images/icons_social_networking/icon_facebook_wh20.gif" width="20" height="20" alt="Visit our Facebook site" />Become a Fan on Facebook
+</a></li>
+
+<!-- <li>
+
+<a href="#">
+<img src="/templates_2009/images/icons_social_networking/icon_Twitter_wh20.gif" width="20" height="20" alt="Follow us on Twitter" />Follow us on Twitter
+</a>
+</li> -->
+<li>
+<a href="atom.xml">
+<img src="/templates_2009/images/icons_social_networking/icon_rss_wh20.png" width="20" height="20" alt="Subscribe to our News Feed" />Subscribe to our Blog
+</a></li>
+        
+        
+        
+        	</ul>
+            
+                 <!--  start -->         
+<br />                 
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/connect.php/en_US"></script><script type="text/javascript">FB.init("70fd3590c930fca8a28804d546b9c521");</script><fb:fan profile_id="6264543203" stream="0" connections="9" logobar="1" height="400" width="200"></fb:fan>

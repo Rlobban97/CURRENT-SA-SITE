@@ -1,0 +1,18 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Committee on Constituent Relations</h2>
+				<!-- <p>The Committee is responsible for overseeing the internal affairs of the Student Association. It is charged solely with the ability to investigate internal matters as well as make recommendations in regards to improve efficiency in internal operations. To help narrow down the focus, the committee also has two standing subcommittees, <a href=go_ethics.shtml>Ethics</a> and <a href=go_events.shtml>Events & Awareness</a>.</p> -->
+                <p>
+
+<table>
+					<tr>
+						<td><b><u>Constituent Relations Committee:</u></b></td>
+					</tr>
+                          <script type="text/javascript">committee(9);</script>
+                </table>
+</p>
+			
+                
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

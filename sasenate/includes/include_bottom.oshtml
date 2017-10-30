@@ -1,0 +1,67 @@
+
+                   
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- contaner end -->
+		<!-- sidebar start -->
+		<div class="sidebar">
+			<!-- i-went start -->
+			<div class="i-want">
+				<h3>Learn More:</h3>
+				<ul>
+					<li><a href="http://www.albany.edu/studentassociation/aboutsa.shtml">What is Student Association?</a></li>
+					<li><a href="http://www.albany.edu/studentassociation/getinvolved.shtml">How do I get involved?</a></li>
+                    <li><a href="http://www.albany.edu/studentassociation/joinagroup.shtml">How do I join a group?</a></li>
+					<li><a href="http://www.albany.edu/studentassociation/startagroup.shtml">How do I start a group?</a></li>
+					<li><a href="http://www.albany.edu/studentassociation/joinsports.shtml">How do I join Intramurals/Club Sports?</a></li>
+					<li><!-- Begin of OCC code for Marketing Outreach department-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr><td><script type="text/javascript" src="//www.onlinechatcenters.com/icond-10854_14704.js"></script></td></tr>
+<tr><td align="center"><a href="http://www.onlinechatcenters.com/" style="font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-weight: normal; color: #000; text-decoration: none;" title="Live Support by Online Chat Centers">Live Support by OCC</a></td></tr>
+</table>
+<!-- End of OCC code --></li>
+				</ul>
+			</div>
+			<!-- i-want end -->
+            
+            <a class="ask" href="http://www.albany.edu/studentassociation/contact.shtml"><img src="images/asksa.gif" width="132" height="47" alt="Ask SA" border="0"/></a>
+                 
+<br />
+
+<a href="http://www.albany.edu/studentevents/danegerzone.shtml"><img src="http://www.albany.edu/studentassociation/images/FanClubButton.jpg" alt="DANEger Zone!" border="0" /></a></center>
+
+            
+                    			<!---#include virtual="../templates_2009/includes_news/include_student_focus.shtml" -->
+
+			<!-- gray-box start -->
+<!---#include virtual="includes/include_contact_us.shtml" -->
+			<!-- gray-box end -->
+
+		</div>
+		<!-- sidebar end -->
+	</div>
+	<!--footer-->
+	<!--footer-->
+    <div style="clear:both"></div>
+	<div id="footer">		
+		<div class="footer-holder">
+			<address>
+				<span>Student Association, University at Albany, State University of New York</span>
+				<span>Campus Center 116, 1400 Washington Avenue, Albany, NY 12222 Phone (518) 442-5640</span>
+			</address>
+			<ul>
+				<li><a href="mailto:sa@albany.edu">Email SA</a></li>
+                <li><a href="mailto:nfahrenkopf@gmail.com">Email the Webmaster</a></li>
+				<li><a href="http://www.albany.edu/sunynyalert/">SUNY NY-Alert</a></li>
+				<li><a href="http://www.albany.edu/its/policies/3183.htm">Internet Privacy Policy</a></li>
+				<li><a href="http://www.albany.edu/emergency/index.shtml">Emergency Preparedness</a></li>
+			</ul>
+			<p>&copy; 2010 University at Albany Student Association</p>
+		</div><!--close div footer-holder-->
+	</div><!--close div footer-->
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

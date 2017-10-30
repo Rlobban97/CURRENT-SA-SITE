@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   
+<title>Student Association - University at Albany - SUNY</title>
+
+<SCRIPT language="JavaScript" SRC="http://www.albany.edu/studentassociation/test/votingrecord.js"></SCRIPT>
+ 	
+</head>
+
+
+<body id="page">
+
+
+
+
+<script type="text/javascript">
+
+var bill;
+var begin;
+
+begin = location.search.indexOf("bill=");
+if (begin >0 )
+{
+
+bill = location.search.substring(begin+5,location.search. length);
+bill = unescape(bill);
+
+billresult(bill);
+
+
+}
+
+</script>
+			
+</body>
+</html>
+            

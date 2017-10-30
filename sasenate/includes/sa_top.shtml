@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>University at Albany - Student Association</title>
+<meta name="description" content="With outstanding faculty, an innovative curriculum, award-winning advisors, and student centered services, the University at Albany offers the resources of a nationally recognized research university and the best of a liberal arts college experience." />
+<meta name="keywords" content="University at Albany,State University of New York,Albany,UAlbany,Great Danes,Danes,Division 1,SUNY Albany,SUNY at Albany,SUNYA,UA,University of Albany,Albany State,NYS Teachers College,Capital District,Capital Region,Higher Education,Research University,Honors College,Nanosciences" />
+
+<script language="javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+<style type="text/css">
+<!--
+@import url(css/homev3.css);
+-->
+<!--
+@import url(css/sa.css);
+-->
+</style>
+
+<script language="javascript" type="text/javascript" src="includes/senators.js"></script>
+
+<script language="JavaScript" type="text/JavaScript">
+// This script manages the random image rotation. To add more images open the image_template PSD, and follow directions in the hidden text layer.
+// Finally, edit the second line of this script so that the total number of images appears: "var ranNum= Math.floor(Math.random()*#+1);" (# = the total number)
+if (window.screen){ 
+var ranNum= Math.floor(Math.random()*17+1); 
+document.write("<style type='text/css'>#top { background: url('images/topimage"+ranNum+".jpg') no-repeat;}</style>"); 
+}
+//-->
+</script>
+
+
+</head><body onload="MM_preloadImages('images/desc_campus.gif','images/desc_career.gif','images/desc_conflict.gif','images/desc_counsel.gif','images/desc_disability.gif','images/desc_health.gif','images/desc_main.gif','images/desc_orientation.gif','images/desc_parents.gif','images/desc_reslife.gif','images/desc_student.gif','images/desc_upd.gif')">
+
+<div id = "container">
+	<div id="wrap"> 
+	
+		<div id="top"> 
+			<a href="http://www.albany.edu/"><img src="http://www.albany.edu/main/homepagev2/images/homeLogo.gif" alt="University at Albany, State University of New York - Home" width="307" height="38" border="0" id="logo" /></a> <a href="http://www.albany.edu/studentassociation"><img src="images/toplogo.jpg" alt="Student Association Logo" border="0" id="SALogo" /></a>
+			
+		
+<div id = "main">	<div id="header"></div>				<div id = "float_wrap">				<div id="mainNav">
+				   <div id="yellowNavBar"><ul>
+                <li class="firstLink"><a href="http://www.albany.edu/studentassociation/index.html">SA Home</a></li>
+                <li><a href="executive.shtml">Executive</a></li>
+                <li><a href="http://www.albany.edu/sasenate">Senate</a></li>
+                <li><a href="supremecourt.shtml">Supreme Court</a></li>
+                <li><a href="boardoffinance.shtml">Board of Finance</a></li>
+                <li><a href="http://www.albany.edu/~athletic">Intramurals</a></li>
+                <li><a href="http://www.atv.basknick.com">ATV</a></li>
+
+                <li><a href="http://www.albany.edu/involvement/involved/groups.html">Groups</a></li>
+                </ul></div>
+				<div id="whiteNavBar"><ul>
+                <li class="firstLink"><a href="http://www.albany.edu/studentassocaition/aboutsa.shtml">About SA</a></li>
+                <li><a href="http://www.albany.edu/studentassociation/calendar.shtml">SA Events</a></li>
+                <li><a href="http://www.albany.edu/studentassociation/legalservices.shtml">Legal Services</a></li>
+                <li><a href="http://www.albany.edu/studentassociation/copiesplus.shtml">Copies Plus</a></li>
+                <li><a href="http://www.dippikill.com/">Dippikill</a></li>
+                <li><a href="http://www.albany.edu/studentassociation/documents.shtml">Forms/Documents</a></li>
+                <li><a href="http://www.albany.edu/studentassociation/contact.shtml">Contact SA</a></li></ul></div>	
+			</div>		</div>						    
+            
+            			</div>		</div>			<div class="clear">&nbsp;</div>	
+                        
+                        
+            <!-- End Global Top -->
+                        
+            
+            
+			
+			<br />
+			<div id = "columns"> <div id = "leftcol">
+				
+				<div class="purplehead">SA Senate:</div>
+                <div id="sidenav">
+                <ul>
+				<li><a href="index.shtml">Senate Home</a></li>
+				<li><a href="chair.shtml">Office of the Chair</a></li>
+                <li><a href="meetings.shtml">Meetings</a></li>
+                <li><a href="senators.shtml">SA Senators</a></li>
+				<li><a href="docs.shtml">Senate Documents</a></li>
+			    <li><a href="http://www.studentassembly.org">SUNY Student Assembly</a></li>
+                </ul>
+				<div class="purplehead">Senate Committees:</div>
+<ul>
+                <li><a href="coc.shtml">Committee of Chairmen</a></li>
+				<li><a href="ro.shtml">Rules and Operations</a></li>
+				<li><a href="ga.shtml">Governmental Affairs</a></li>
+				<li><a href="app.shtml">Appropriations</a></li>
+				<li><a href="uo.shtml">University Outreach</a></li>
+				</ul>
+                <div id="purplehead"><!-- AddThis Button BEGIN -->
+<script type="text/javascript">addthis_pub  = 'nfahrenkopf';</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</div>
+</div>
+            
+            <!--
+<div id="purplehead">Blog Archive:</div><div id="sidenav"><ul><li>January</li><li>February</li><li>March</li><li>April</li><li>May</li><li>June</li><li>July</li><li>August</li><li>September</li><li>October</li><li>November</li><li>December</li></ul></div>
+-->
+
+
+				</div>
+                
+				<div id = "rightcol">
+	
+    

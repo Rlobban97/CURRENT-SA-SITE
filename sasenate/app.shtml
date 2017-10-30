@@ -1,0 +1,19 @@
+﻿
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Committee on Appropriations</h2>
+				<p>The Committee hears requests for supplemental funding from the various Student Association-recognized organizations. They also are responsible for reviewing requests of new groups to receive funding for the first time.</p>
+                
+               <p>
+
+<table>
+					<tr>
+						<td><b><u>Appropriations Committee:</u></b></td>
+					</tr>
+                          <script type="text/javascript">committee(8);</script>
+                </table>
+</p>
+		
+                
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

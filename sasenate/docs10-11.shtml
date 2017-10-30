@@ -1,0 +1,61 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>SA Senate Documents from 2010-2011</h2>
+            
+            
+              
+                    <p>
+				
+
+<table align=center width=100%>
+					
+<tr><td align=center colspan="3"><font size=+1><B><U>SA Senate Agendas and Minutes</U></B></font></td></tr>
+                    
+<tr class="even" style="font-weight:bold;"><td>Meeting Date:</td><td>Meeting Agendas:</td><td>Meeting Minutes:</td></tr>
+	
+<!--				
+<tr><td>September 2nd, 2009</td><td><a href="docs0910/Agenda-9-2-09.pdf">Agenda</a></td><td><a href="docs0910/Minutes-9-2-09.pdf">Minutes</a></td></tr>
+                    
+<tr class="even"><td>September 9th, 2009</td><td><a href="docs0910/Agenda-9-9-09.pdf">Agenda</a></td><td><a href="docs0910/Minutes-9-9-09.pdf">Minutes</a></td></tr>
+                    -->
+
+
+
+
+ 
+                    
+                    
+				</table></p>
+                
+                
+                
+                
+                
+                <p>
+
+								<table align=center width=100%>
+					<tr><td align=center colspan="5"><font size=+1><B><U>2010-2011 Current Legislation</U></B></font><br />
+(Note: Pending Legislation and Failed Legislation will be posted here as submitted. Once passed, the approved version will be available.)</td></tr>
+                    <tr class="even" align="center"><td width="52"><strong>Date</strong></td><td><strong>#</strong></td><td><strong>Subject</strong></td><td><strong>Status</strong></td><td><strong>Votes</strong></td></tr>
+					
+
+
+ <!-- 
+                    Template for odd numbered bill:                    
+                    <tr><td>mm-dd-yy</td><td>Bill/Resolution/Policy Change</td><td>###</td><td><a href="docs0910/Bill0809-###.pdf">Bill Subject</a></td><td>Bill Status</td></tr>
+
+					Template for even number bill: (adds alternate shading)                    
+                    <tr class="even"><td>mm-dd-yy</td><td>Bill/Resolution/Policy Change</td><td>###</td><td><a href="docs0910/Bill0809-###.pdf">Bill Subject</a></td><td>Bill Status</td></tr>
+					-->
+                    
+                    
+				</table>
+					
+</p>
+
+
+
+			
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

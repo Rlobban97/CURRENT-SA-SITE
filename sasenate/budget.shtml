@@ -1,0 +1,15 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Student Association Budget</h2>
+            
+                   
+				
+				  <p>
+                Budget information can now be found off of <a href="/studentassociation/documents.shtml">this page</a>   </p>
+
+
+
+
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

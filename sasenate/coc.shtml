@@ -1,0 +1,35 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Committees </h2>
+				<p>The committees which comprise the Student Association Senate are where the bulk of the work of the Senate is done and where specific student issues are researched, examined, and fleshed out prior to being brought to the Senate floor. Below is a listing of all of the committees which each have particular things they oversee.</p>
+				<p>&nbsp;</p>
+				<table width="499" border="0">
+                  <tr>
+                    <td width="120"><a href=rules.shtml>Rules and Administration</a></td>
+                    <td width="194"><a href=ceo.shtml>Community Engagement and Outreach</a></td>
+                  </tr>
+                  
+<tr>
+                    <td><a href=app.shtml>Appropriations</a></td>
+                    
+<td><a href=go.shtml>Government Operations</a></td>
+                  
+</tr>
+  
+
+
+<tr>
+                    <td><a href=cr.shtml>Constituent Relations</a></td>
+                    
+<td>&nbsp;</td>
+                  
+</tr>
+                
+
+
+
+</table>
+                <p>
+                <!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

@@ -1,0 +1,17 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Student Outreach, Accountability, and Rights Committee </h2>
+				<p>The Student Outreach, Accountability, and Rights Committee ("SOAR") is charged with overseeing the Student Association's marketing and outreach efforts and ensuring that the student population is well informed on the events that the Student Association is holding, the resources it provides for students, and its general mission, while also reaching out to the student body to see what issues may be of importance to them and what events they would like to see. In addition, the SOAR Committee reviews actions made by the Student Association and the University that concern the rights of students as well as keeping both accountable to students. Members of this committee serve as liaisons to student organizations recognized by the Student Association, ensuring that they comply with all of their requirements to maintain recognition and acting as a resource for the groups. Furthermore, the SOAR Committee is responsible for, in conjunction with the President and the Senate Chair, acting as a liaison to the University Administration and the UAlbany Community on issues of importance.</p>
+                <p>
+<table>
+					<tr>
+						<td><b><u>The SOAR Committee:</u></b></td>
+					</tr>
+                          <script type="text/javascript">committee(6);</script>
+                </table>
+
+				</p>
+			
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            

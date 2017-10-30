@@ -1,0 +1,32 @@
+
+
+               
+             </div>
+              
+             
+	
+		
+		
+			
+			<div style="clear:both"></div>				
+		</div>	</div>			
+<!--end of wrap div-->
+	<div id = "foot_image"></div>	
+    
+	<div id="footer">
+		<div id="footerSelect">
+        <a href="http://www.albany.edu/studentassociation"><img src="images/bottomlogo.jpg" border="0" /></a>
+            
+		</div>
+		<div id="footerRight">
+			<p>Questions/Comments/Suggestions? Email <a href = "mailto:SASenate@albany.edu">SASenate@albany.edu</a> Contact the <a href="mailto:nfahrenkopf@gmail.com">Webmaster</a></p>
+			<p>Student Association - Campus Center 116 - (518) 442-5640</p>
+			<p>Copyright © <!--#config timefmt="%Y"-->
+<!--#echo var="DATE_LOCAL"--> Student Association. All rights reserved. <a title="Internet Privacy Policy" href="http://www.albany.edu/webmaster/privacy_policy.html">Internet Privacy Policy</a></p>
+		</div></div>	</div>
+
+		<div class="clear">&nbsp;</div>	
+	
+	
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+</body></html>

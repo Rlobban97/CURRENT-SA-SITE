@@ -1,0 +1,77 @@
+/* Container for background and alignment */
+div#container { background: url('../images/bg.gif') repeat-y fixed center 20px; width:786px; margin: 0 auto; }
+
+/* Top rounded corners */
+div#pur_tl { background: url('../images/pur-box-TL.gif'); float:left; width:20px; height:20px; }
+div#pur_tr { background: url('../images/pur-box-TR.gif'); float:right; width:20px; height:20px; }
+
+/* Rounded corner for search box */
+div#searchbox_TL { float:left; background: url('../images/yellow-purple-TL.gif') no-repeat; width:20px; height:20px; }
+
+/* UAlbany main logo and link */
+div#ss_top { background: url('../images/homeLogo.gif'); width:755px; height:72px; border:none;}
+a#home_link { width: 325px; height:50px; display:block;}
+
+/* Space to the left of the standard UA Menu */
+/*div#left_padding { width:164px; height:42px; margin: 0; float:left; display:block; background:#330066; }
+
+/* Standard UA Menu */
+div#mainNav { float:none; clear:none; width:591px; background: #E1C42E; }
+div#yellowNavBar { background: url('../images/yellow-purple-TL.gif') no-repeat; }
+
+/* Main Header Style for when flash does not load */
+div#main h1 { padding:5px; margin:0; width:740px; color:white; background:#e1c42e; font-size: 2em; }
+
+/* Needed to stop IE 3px gap */
+div#float_wrap { width:591px; float:left; margin:0; padding:0; } 
+
+/* Sub pages */
+div#content h1, h2{ padding-left:10px; color:#330066;}
+div#content { margin-bottom: 10px; }
+div#content table{border-color:#330066; border-style: solid; border-width: 1px 1px 1px 1px;}
+div#content div#body { width:55em; margin:0 auto; padding:10px; background:#F8F8F8; border: 2px solid #F0F0F0; }
+#body img{ padding-left:10px;}
+div#content p{ text-indent:1em;  }
+div#content img.img_right { float:right; margin:0 0 0 20px; border: 5px solid #FFF; }
+
+/* Department links  */
+div#menu_wrap { height:44px; text-align:center; position:relative; background:url('../images/menu_bg.gif') repeat-x; }
+div#menu_wrap a { font-family:Arial; font-size:1em; display:block; width:82px; height:44px; border-right:solid #666 1px; }
+div#menu_wrap a p{ padding:3px 0 0 0; line-height:1em; margin:0;  }
+div#menu_wrap a p br{ line-height:.6em; }
+div#menu_wrap a span { display:none; }
+div#menu_wrap a:hover { text-indent:0; color:#000; background: url('../images/menu_bg_over.gif') /* #F7F2DC */;   }
+div#menu_wrap a:hover span { display:block; text-align:left; font-size:1em; padding: 5px 10px 15px 10px; font-weight:bold; width:465px; height:80px; position:absolute; left:0; top:44px; color:#000; }
+div#menu_wrap a:hover span div.descr { font-size: 1em; text-indent:1em; padding:0; margin:0; font-weight:bold; width:300px; height:80px; }
+div#menu_wrap ul { list-style:none; margin:0 0 0 2px; padding:0; height:44px; }
+div#menu_wrap li { float:left; /* border-right:solid #666 1px; */ }
+div#menu_wrap li.left a { padding-right:5px; }
+div#menu_wrap li.right a { border-right:none; }
+div#menu_wrap img { padding:0px;  float:right;}
+
+/* Main descriptional text and extra links */
+div#main_content { font-family:Arial; padding:0; margin:0; background:url('../images/mainpar_bg.gif') no-repeat; height:100px;}
+div#main_content div#main_par { font-size: 1em; float:left; text-indent:1em; padding:5px 0 0 10px; margin:0; font-weight:bold; width:400px; height:80px; }
+div#side_buttons { float:right; /* background:#306; */ margin:0 0 0 auto; width:270px; height:100%; }
+div#side_buttons ul { list-style:none; margin:0; padding:2px 0 2px 2px; width:130px; } 
+div#side_buttons li a{ width:128px; height:30px; padding:0; display:block; border-top: 1px solid #306; border-bottom: 1px solid #306; }
+div#side_buttons a:hover { border-color: #F7F2DC; }
+div#side_buttons ul#side_left_col { float:left; }
+
+/* Table Shading and Coloring*/
+.even {background-color:#bbbbbb;}
+.failed {color:#ff0000;}
+.pending {color:#ffff00;}
+.passed {color:#00ff00;}
+
+/* Footer background */
+div#p_footer { background: url('../images/foot-bg.gif') 0px -20px; height:7px; display:block; margin:0; padding:0; }
+
+/* Image background for footer */
+div#foot_image { background: url('../images/bottom.gif'); width:786px; height:20px; }
+
+/* Format for quick links menu */
+select#links2 { margin-top:7px; }
+
+/* Hidden text */
+p.hidden { visibility:hidden; }

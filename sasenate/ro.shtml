@@ -1,0 +1,20 @@
+
+<!--#include virtual="includes/include_top.shtml" -->
+<h2>Rules and Operations Committee </h2>
+				<p>The Rules and Operations Committee is charged with oversight of all aspects and branches of the Student Association and ensures that any and all of the policies are followed at all times.  Furthermore, the Rules and Operations Committee traditionally has a sub-committee within it, the Ethics Committee, which monitors the actions of internal officers and senators of the Student Association in the tradition of the spirit of policy as opposed to the letter of the law; recommendations are then made by this committee to the full senate regarding changes to Student Association Policy.</p>
+                
+                <p>
+
+<table>
+					<tr>
+						<td><b><u>Rules and Operations Committee:</u></b></td>
+					</tr>
+                          <script type="text/javascript">committee(5);</script>
+                </table>
+</p>
+				
+                
+			
+<!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
+<!--#include virtual="includes/include_bottom.shtml" -->
+            
