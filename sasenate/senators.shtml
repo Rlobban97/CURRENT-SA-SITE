@@ -1,10 +1,10 @@
 
 <!--#include virtual="includes/include_top.shtml" -->
 
-<h2>2015-2016 Student Senators  </h2>
+<h2>2017-2018 Student Senators  </h2>
                 <center>
 				<p>The Student Association Senate is comprised of Student Senators elected from the various<br />
-				  living area's of the University at Albany by their residents and Student Senators elected at-large<br />
+				  living areas of the University at Albany by their residents and Student Senators elected at-large<br />
 				  by the entire student body. The number of Student Senators is based upon the total number of<br />
 				  undergraduate students as well as the population of the various living areas. A reapportionment<br />
 				  is done each year to ensure that all students are properly represented...</p>
@@ -26,7 +26,12 @@
 <table width=30%>
 					
 <tr>
-<td><b><u>At-Large</u></b></td>
+<td><b><u>At-Large</u></b>
+<br><a href = "SaskiaPilorge.html">Saskia Pilorge</a>
+<br><a href = "TylerPolite.html">Tyler Polite</a>
+<br><a href = "MitchellRybak.html">Mitchell Rybak</a>
+<br><a href = "SubhaTasnim.html">Subha Tasnim</a>
+</td>
 </tr>
      
 <script type="text/javascript">
@@ -42,7 +47,9 @@ masterlist('L');
 <table width=30%>
 					
 <tr>
-<td><b><u>Indian Quad</u></b></td>
+<td><b><u>Indian Quad</u></b>
+<br><a href = "LoganLosito.html">Logan Losito</a>
+</td>
 </tr>
                         
                 
@@ -57,10 +64,17 @@ masterlist('I');
 
 <a name="state"></a>
 				
-<table width=30%>
-<tr><td><b><u>State Quad</u></b></td></tr>
-                          
-                
+<table width=30%><tr>
+<td><b><u>State Quad</u></b>
+<br><a href = "CassandraJones.html">Cassandra Jones</a>
+<br><a href = "MaxSevor.html">Max Sevor</a>
+
+</td></tr>
+
+
+
+                         
+             
 <script type="text/javascript">
 masterlist('S');
 </script>
@@ -89,7 +103,10 @@ masterlist('C');
 
 <a name="dutch"></a>
 				
-<table width=30%><tr><td><b><u>Dutch Quad</u></b></td>
+<table width=30%><tr><td><b><u>Dutch Quad</u></b>
+<br><a href = "TerrellMiller.html">Terrell Miller</a>
+<br><a href = "JessicaRichard.html">Jessica Richards</a>
+</td>
 </tr>
                          
                 
@@ -106,7 +123,9 @@ masterlist('D');
 <a name="alumni"></a>
 				
 <table width=30%>
-<tr><td><b><u>Alumni Quad</u></b></td>
+<tr><td><b><u>Alumni Quad</u></b>
+<br><a href = "CarlosMcArthur.html">Carlos McArthur</a>
+</td>
 </tr>
 
 <script type="text/javascript">
@@ -121,7 +140,11 @@ masterlist('A');
 <a name="empire"></a>
 				
 <table width=30%>
-<tr><td><b><u>Empire Commons</u></b></td></tr>
+<tr><td><b><u>Empire Commons</u></b>
+<br><a href = "NadiaNaoum.html">Nadia Naoum</a>
+
+</td>
+</tr>
 <script type="text/javascript">
 masterlist('E');
 </script>
@@ -135,7 +158,12 @@ masterlist('E');
 				
 <table width=30%>
 <tr>
-<td><b><u>Freedom</u></b></td></tr>
+<td><b><u>Freedom</u></b>
+<br><a href = "JackO'Connell.html">Jack O'Connell</a>
+<br><a href = "AdamShayo.html">Adam Shayo</a>
+
+</td>
+</tr>
 
 <script type="text/javascript">
 masterlist('F');
@@ -149,7 +177,10 @@ masterlist('F');
 				
 <table width=30%>
 <tr>
-<td><b><u>Liberty Terrace</u></b></td></tr>
+<td><b><u>Liberty Terrace</u></b>
+<br><a href = "HannahSmith.html">Hannah Smith</a>
+</td>
+</tr>
 
 <script type="text/javascript">
 masterlist('T');
@@ -164,6 +195,11 @@ masterlist('T');
 
 <table width=30%><tr>
 <td><b><u>Off Campus</u></b>
+<br><a href = "oliviaJohansen.html">Olivia Johansen</a>
+<br><a href = "JoulyLajara.html">Jouly Lajara</a>
+<br><a href = "PhilO'Meara.html">Phil O'Meara</a>
+<br><a href = "MarkAnhonyQuinn.html">Mark Anthony Quinn</a>
+<br><a href = "ZacharieSt-Hubert.html">Zacharie St-Hubert</a>
 </td>
 </tr>
 
@@ -197,6 +233,7 @@ masterlist('P');
 
 <table width=30%><tr>
 <td><b><u>Business and Management</u></b>
+<br><a href = "NicholasLeonardo.html">Nicholas Leonardo</a>
 </td>
 </tr>
 
@@ -214,6 +251,7 @@ masterlist('B');
 
 <table width=30%><tr>
 <td><b><u>Humanities</u></b>
+<br><a href = "JeffreyShapiro.html">Jeffrey Shapiro</a>
 </td>
 </tr>
 
@@ -248,6 +286,7 @@ masterlist('G');
 
 <table width=30%><tr>
 <td><b><u>Social Sciences</u></b>
+<br><a href = "kennedyKujawa.html">Kennedy Kujawa</a>
 </td>
 </tr>
 
@@ -264,6 +303,8 @@ masterlist('Z');
 
 <table width=30%><tr>
 <td><b><u>First Year Students</u></b>
+<br><a href = "ChiChi.html">ChiChi Igboekwe</a>
+<br><a href = "IsaiahJames.html">Isaiah James</a>
 </td>
 </tr>
 
@@ -285,4 +326,3 @@ masterlist('Y');
 <!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
 
 <!--#include virtual="includes/include_bottom.shtml" -->
-            
