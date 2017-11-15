@@ -1,46 +1,51 @@
-
-
 <!--#include virtual="includes/include_top.shtml" -->
-
- <tr>
-    <td height="400" colspan="2" align="left" valign="top" bgcolor="#003300"><blockquote>
-            <p><br />
-              <span class="style6"><img src=headers/aboutus.png> </span></p>
-  </blockquote>      
-
-<table><tr><td>
-     <blockquote> <p><span class="style4"><strong>Dippikill</strong> is a private 850-acre wilderness retreat facility owned by the Student Association of the University at Albany. Since 1956 Dippikill has remained true to its mission: To keep the area pristine, limit development and offer visitors a glimpse of nature's beauty while enjoying overnight visits in rustic-style lodging. The cabins and campsites at Dippikill are open to reservations from University at Albany undergraduates and University at Albany affiliates: graduate students, alumni, faculty and staff.</span></p>
-            <p><span class="style9">Dippikill Inc. </span><span class="style4">is the subsidiary organization that is responsible for the upkeep and maintenence of the retreat. The Dippikill Board of Directors, chaired by <a href="mailto:DippikillBoard@Dippikill.com"><strong>Casey Crandall</strong></a>, meets regularly. In addition to the Board of Directors, a staff, led by Director <strong><a href="mailto:director@dippikill.com">Tom Savarie</a></strong>, manages the day-to-day operations.</span>
-<br><BR>
-<span class="style5"><u>Board of Directors:</u></span><br>
-Jarius Jemmott, President<br>
-Allison Bliss<br>
-Nicholas Butler<BR>
-Nick Chiuchiolo	<br>
-Marc Cohen<br>
-Casey Crandall, Chairman<br>
-Jacob Crawford <br>
-Julie St. Amour Glass<br>
-Kevin Murphy<BR>
-Richard Nelson <br>
-David Schaffer <br>
-Paul Schaffer <br>
-Robert Warshauer<BR>
-<BR><BR>
-</p> </blockquote>
-</td><td>
-<center>
-<img src="about.jpg" width="300" height="200">
-<BR><BR><BR>
-<script type="text/javascript" src="http://voap.weather.com/weather/oap/USNY1515?template=OTDRH&par=3000000007&unit=0&key=twciweatherwidget"></script>
-</center>
-</td></tr></table>
-
-        <p><span class="style7"><br />
-            <br />
+<tr>
+    <td height="400" colspan="2" align="left" valign="top" bgcolor="#003300">
+        <blockquote>
+            <p>
+                <br> <span class="style6"><img src=headers/aboutus.png> </span></p>
+        </blockquote>
+        <table>
+            <tr>
+                <td>
+                    <blockquote>
+                        <p><span class="style4"><strong>Dippikill</strong> is a private 850-acre wilderness retreat facility owned by the Student Association of the University at Albany. Since 1956 Dippikill has remained true to its mission: To keep the area pristine, limit development and offer visitors a glimpse of nature's beauty while enjoying overnight visits in rustic-style lodging. The cabins and campsites at Dippikill are open to reservations from University at Albany undergraduates and University at Albany affiliates: graduate students, alumni, faculty and staff.</span></p>
+                        <p><span class="style9">Dippikill Inc. </span><span class="style4">is the subsidiary organization that is responsible for the upkeep and maintenence of the retreat. The Dippikill Board of Directors, chaired by <a href="mailto:DippikillBoard@Dippikill.com"><strong>Casey Crandall</strong></a>, meets regularly. In addition to the Board of Directors, a staff, led by Director <strong><a href="mailto:director@dippikill.com">Tom Savarie</a></strong>, manages the day-to-day operations.</span>
+                            <br>
+                            <br> <span class="style5"><u>Board of Directors:</u></span>
+                            <br> Jerlisa "Juju" Fontaine, President
+                            <br> Casey Crandall, Chairman
+                            <br> Nick Butler, Vice Chairman
+                            <br> Dave Schaffer, Secretary
+                            <br> Nicholas Hackshaw
+                            <br> Shannon Beal
+                            <br> Laura Buskey
+                            <br> Langie Cadesca
+                            <br> Marc Anthony Quinn
+                            <br> Paul Schaffer
+                            <br> Jacob Crawford
+                            <br> Francis Agyemang
+                            <br> Nick Chiuchiolo
+                            <br> Sam Axley
+                            <br>
+                            <br>
+                            <br> </p>
+                    </blockquote>
+                </td>
+                <td>
+                    <center> <img src="about.jpg" width="300" height="200">
+                        <br>
+                        <br>
+                        <br>
+                        <script type="text/javascript" src="http://voap.weather.com/weather/oap/USNY1515?template=OTDRH&par=3000000007&unit=0&key=twciweatherwidget"></script>
+                    </center>
+                </td>
+            </tr>
+        </table>
+        <p><span class="style7"><br>
+            <br>
             </span></p>
-    </blockquote></td>
-  </tr>
- 
-
+        </blockquote>
+    </td>
+</tr>
 <!--#include virtual="includes/include_bottom.shtml" -->
