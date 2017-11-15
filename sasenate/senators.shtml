@@ -27,10 +27,19 @@
 					
 <tr>
 <td><b><u>At-Large</u></b>
-<br><a href = "SaskiaPilorge.html">Saskia Pilorge</a>
-<br><a href = "TylerPolite.html">Tyler Polite</a>
-<br><a href = "MitchellRybak.html">Mitchell Rybak</a>
-<br><a href = "SubhaTasnim.html">Subha Tasnim</a>
+<br><a href = "SaskiaPilorge.shtml">Saskia Pilorge</a>
+<br><a href = "TylerPolite.shtml">Tyler Polite</a>
+<br><a href = "MitchellRybak.shtml">Mitchell Rybak</a>
+<br><a href = "SubhaTasnim.shtml">Subha Tasnim</a>
+<br><a href = "AnnaAgnes.shtml">Anna Agnes</a>
+<br><a href = "DillonAsmus.shtml">Dillon Asmus</a>
+<br><a href = "ChloeAnneBlaise.shtml">Chloe Anne Blaise</a>
+<br><a href = "DannyCheng.shtml">Danny Cheng</a>
+<br><a href = "SeanCorreia.shtml">Sean Correia</a>
+<br><a href = "AmandaGoldfine.shtml">Amanda Goldfine</a>
+<br><a href = "BrandonHoldridge.shtml">Brandon Holdridge</a>
+<br><a href = "MoisesUrena.shtml">Moises Urena</a>
+<br><a href = "DejouraeWilliams.shtml">Dejourae Williams</a>
 </td>
 </tr>
      
@@ -48,7 +57,8 @@ masterlist('L');
 					
 <tr>
 <td><b><u>Indian Quad</u></b>
-<br><a href = "LoganLosito.html">Logan Losito</a>
+<br><a href = "LoganLosito.shtml">Logan Losito</a>
+<br><a href = "KennyBarrera.shtml">Kenny Barrera</a>
 </td>
 </tr>
                         
@@ -88,7 +98,10 @@ masterlist('S');
 				
 <table width=30%>
 <tr>
-<td><b><u>Colonial Quad</u></b></td>
+<td><b><u>Colonial Quad</u></b>
+<br><a href = "KatherineDobler.shtml">Katherine Dobler</a>
+<br><a href = "OwenHoward.shtml">Owen Howard</a>
+</td>
 </tr>
                           
                 
@@ -104,8 +117,8 @@ masterlist('C');
 <a name="dutch"></a>
 				
 <table width=30%><tr><td><b><u>Dutch Quad</u></b>
-<br><a href = "TerrellMiller.html">Terrell Miller</a>
-<br><a href = "JessicaRichard.html">Jessica Richards</a>
+<br><a href = "TerrellMiller.shtml">Terrell Miller</a>
+<br><a href = "JessicaRichard.shtml">Jessica Richards</a>
 </td>
 </tr>
                          
@@ -124,7 +137,8 @@ masterlist('D');
 				
 <table width=30%>
 <tr><td><b><u>Alumni Quad</u></b>
-<br><a href = "CarlosMcArthur.html">Carlos McArthur</a>
+<br><a href = "CarlosMcArthur.shtml">Carlos McArthur</a>
+<br><a href = "DesannCarty.shtml">Desann Carty</a>
 </td>
 </tr>
 
@@ -141,7 +155,8 @@ masterlist('A');
 				
 <table width=30%>
 <tr><td><b><u>Empire Commons</u></b>
-<br><a href = "NadiaNaoum.html">Nadia Naoum</a>
+<br><a href = "NadiaNaoum.shtml">Nadia Naoum</a>
+<br><a href = "LelaEdwards.shtml">Lela Edwards</a>
 
 </td>
 </tr>
@@ -159,8 +174,8 @@ masterlist('E');
 <table width=30%>
 <tr>
 <td><b><u>Freedom</u></b>
-<br><a href = "JackO'Connell.html">Jack O'Connell</a>
-<br><a href = "AdamShayo.html">Adam Shayo</a>
+<br><a href = "JackO'Connell.shtml">Jack O'Connell</a>
+<br><a href = "AdamShayo.shtml">Adam Shayo</a>
 
 </td>
 </tr>
@@ -178,7 +193,8 @@ masterlist('F');
 <table width=30%>
 <tr>
 <td><b><u>Liberty Terrace</u></b>
-<br><a href = "HannahSmith.html">Hannah Smith</a>
+<br><a href = "HannahSmith.shtml">Hannah Smith</a>
+<br><a href = "PaulinaHatzipetrakos.shtml">Paulina Hatzipetrakos</a>
 </td>
 </tr>
 
@@ -195,11 +211,15 @@ masterlist('T');
 
 <table width=30%><tr>
 <td><b><u>Off Campus</u></b>
-<br><a href = "oliviaJohansen.html">Olivia Johansen</a>
-<br><a href = "JoulyLajara.html">Jouly Lajara</a>
-<br><a href = "PhilO'Meara.html">Phil O'Meara</a>
-<br><a href = "MarkAnhonyQuinn.html">Mark Anthony Quinn</a>
-<br><a href = "ZacharieSt-Hubert.html">Zacharie St-Hubert</a>
+<br><a href = "oliviaJohansen.shtml">Olivia Johansen</a>
+<br><a href = "JoulyLajara.shtml">Jouly Lajara</a>
+<br><a href = "PhilO'Meara.shtml">Phil O'Meara</a>
+<br><a href = "MarkAnhonyQuinn.shtml">Mark Anthony Quinn</a>
+<br><a href = "ZacharieSt-Hubert.shtml">Zacharie St-Hubert</a>
+<br><a href = "CaraBerkey.shtml">Cara Berkey</a>
+<br><a href = "HannahBostwick.shtml">Hannah Bostwick</a>
+<br><a href = "PatrickCarroll.shtml">Patrick Carroll</a>
+
 </td>
 </tr>
 
@@ -217,6 +237,9 @@ masterlist('O');
 
 <table width=30%><tr>
 <td><b><u>Applied/Natural Sciences</u></b>
+<br><a href = "ChazBlackwood.shtml">Chaz Blackwood</a>
+<br><a href = "MorganEldridge.shtml">Morgan Eldridge</a>
+
 </td>
 </tr>
 
@@ -233,7 +256,8 @@ masterlist('P');
 
 <table width=30%><tr>
 <td><b><u>Business and Management</u></b>
-<br><a href = "NicholasLeonardo.html">Nicholas Leonardo</a>
+<br><a href = "NicholasLeonardo.shtml">Nicholas Leonardo</a>
+<br><a href = "AmandaDemma.shtml">Amanda Demma</a>
 </td>
 </tr>
 
@@ -251,7 +275,8 @@ masterlist('B');
 
 <table width=30%><tr>
 <td><b><u>Humanities</u></b>
-<br><a href = "JeffreyShapiro.html">Jeffrey Shapiro</a>
+<br><a href = "JeffreyShapiro.shtml">Jeffrey Shapiro</a>
+<br><a href = "JennaZier.shtml">Jenna Zier</a>
 </td>
 </tr>
 
@@ -269,6 +294,8 @@ masterlist('H');
 
 <table width=30%><tr>
 <td><b><u>Law and Government</u></b>
+<br><a href = "JarrettAltilio.shtml">Jarrett Altilio</a>
+<br><a href = "Paul Capuano.shtml">Paul Capuano</a>
 </td>
 </tr>
 
@@ -286,7 +313,8 @@ masterlist('G');
 
 <table width=30%><tr>
 <td><b><u>Social Sciences</u></b>
-<br><a href = "kennedyKujawa.html">Kennedy Kujawa</a>
+<br><a href = "kennedyKujawa.shtml">Kennedy Kujawa</a>
+<br><a href = "BrianaDominguez.shtml">Briana Dominguez</a>
 </td>
 </tr>
 
@@ -303,8 +331,8 @@ masterlist('Z');
 
 <table width=30%><tr>
 <td><b><u>First Year Students</u></b>
-<br><a href = "ChiChi.html">ChiChi Igboekwe</a>
-<br><a href = "IsaiahJames.html">Isaiah James</a>
+<br><a href = "ChiChi.shtml">ChiChi Igboekwe</a>
+<br><a href = "IsaiahJames.shtml">Isaiah James</a>
 </td>
 </tr>
 
