@@ -1,0 +1,88 @@
+
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+
+ <tr>
+    <td height="400" colspan="2" align="left" valign="top" bgcolor="#003300">
+
+<blockquote>
+            
+
+<p><br />
+              
+
+<span class="style4"><a href="explore.shtml">EXPLORE</a> &gt; GATEHOUSE <br />
+ <br></span>
+<!--#include virtual="includes/include_explore.shtml" -->
+
+
+
+
+</p>
+            
+
+
+<span class="style6"><img src=headers/gate.png></span>
+
+<p>
+
+<table width=100%><tr><td valign="top">
+<div id="container"> 
+	
+	<ul class="gallery"> 
+		<li><a href="photos/gate1.jpg" class="pic-1"><img src="photos/gate1-sm.jpg" alt="Gatehouse Exterior" /></a></li> 
+		<li><a href="photos/gate2.jpg" class="pic-2"><img src="photos/gate2-sm.jpg" alt="Gatehouse Interior" /></a></li> 
+		<li><a href="photos/gate3.jpg" class="pic-3"><img src="photos/gate3-sm.jpg" alt="Gatehouse Interior" /></a></li> 
+		<li><a href="photos/gate4.jpg" class="pic-4"><img src="photos/gate4-sm.jpg" alt="Gatehouse Stove" /></a></li> 
+
+		
+
+	</ul> 
+
+</div>
+</td>
+<td valign="top">
+
+<br><br>
+<font size="2">6 Person Maximum Occupancy</font><br><BR>
+<table border=2>
+<tr><td><b>Rental Fee</b></td><td>	Weeknight:</td><td>	Fri+Sat Package:</td></tr>
+<tr><td>Undergrads</td><td>	$48/night</td><td>	$135/weekend</td></tr>
+<tr><td>Other Affiliates</td><td>	$57/night</td><td>	$173/weekend</td></tr>
+</table>
+<br><BR>
+In addition to the reservation price of the cabin, please be ready to pay a $20 cash security deposit for the Gatehouse when you check in.<br><BR>
+Visit our new <strong><a href="ereserve.shtml" style="color:#ff0000;">Online Reservation Assistant</a></strong> to find out if it's available for your visit!<br><BR>Please check the <strong><a href="ereserve.shtml" style="color:#ff0000;">calendar</a></strong> for availability for the dates you’re interested in, even if the dates are in a month not yet open yet.  Dippikill periodically accepts full facility rentals in advance of when reservation dates would normally open.<BR><BR>
+<p align="left" class="style4"> <strong>Gatehouse</strong> is JUST a bunkhouse, no cooking facilities.  It is meant to provide extra sleeping space to those reservees that book a lodge but have a few extra people more than the maximum capacity. <b>The Gatehouse CANNOT be reserved on its own- it is only reserved in conjunction with another lodge.</b>
+
+</p>
+            
+
+<p align="left" class="style5">FEATURES</p>
+        <ul>
+             <li class="style4"> 6 person maximum occupancy </li>
+          <li class="style4"> 3 bunk beds </li>
+             <li class="style4"> Woodstove </li>
+          <li class="style4"> Electricity </li>
+          <li class="style4"> outhouse </li>
+            </ul>
+      
+
+       </p>
+       
+</td></tr></table>
+
+
+
+</p>
+            <center><iframe src="https://docs.google.com/file/d/0B1_c_o0Yn2AReGg3THpfQ0U5dUE/preview" width="640" height="385"></iframe></center>
+
+              </blockquote></td>
+  </tr>
+  
+
+
+
+
+<!--#include virtual="includes/include_bottom.shtml" -->

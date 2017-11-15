@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile /www/htdocs/domains/s0/00032/www.dippikill.com/etc/.htpasswd
+<Limit GET POST>
+require valid-user
+Options ExecCGI FollowSymLinks
+</Limit>

@@ -1,0 +1,50 @@
+
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+ <tr bgcolor="#003300"> 
+    <td colspan="2">
+      <div align="center">&nbsp;<br>
+        
+
+<center>
+<table width=80%>
+<tr><td colspan=2><span class="style5"><u>DIPPIKILL RESERVATION eASSISTANT</u></span></td></tr>
+
+<tr>
+<td> <p class="style4"><a href="ereserve-whitepine.shtml">White Pine</a><br>
+<a href="ereserve-collins.shtml">Collins</a><br>
+<a href="ereserve-birches.shtml">Birches</a> <br>
+<a href="ereserve-twinbrooks.shtml">Twin Brooks</a> <br>
+<a href="ereserve-gatehouse.shtml">Gatehouse</a> 
+</p></td>
+<td valign=top>
+ <p class="style4">
+<a href="ereserve-farmhouse.shtml">Farmhouse</a> <br>
+<a href="ereserve-garnet.shtml">Garnet</a> <br>
+<a href="ereserve-ritas.shtml">Rita's</a>  <br>
+<a href="ereserve-foxlair.shtml">Fox Lair</a> <br>
+<a href="ereserve-campsites.shtml">Campsites</a> </p></td>
+</tr>
+
+
+
+</table>
+</center>
+
+
+
+<br>
+      </div>
+      
+
+
+
+
+</td>
+  </tr>
+  
+
+
+
+<!--#include virtual="includes/include_bottom.shtml" -->

@@ -1,0 +1,57 @@
+
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+ <tr bgcolor="#003300"> 
+    <td colspan="2">
+      <div align="center">&nbsp;<br>
+        <b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Dippikill 
+        Reservation eAssistant. </font></b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Current 
+        reservations are listed below. Unreserved spaces are not present. Call 
+        (518) 442-5640 for questions.
+<BR><br>
+        
+
+<b>To view a specific lodge/cabin click the small arrow to the right of "Agenda" to filter the calendar to only show the lodge/campsite you're interested in. Any day(s) marked "busy" have already been reserved. Individual calendars can be view by clicking the links below the calendar.</b> </font><BR><BR>
+
+
+
+<br>
+      </div>
+      <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=fomtec96eiv38n76pg32r3eqfg%40group.calendar.google.com&amp;color=%232F6309&amp;src=7msvrq2ms0pdcnh90ccdd0jgkg%40group.calendar.google.com&amp;color=%23856508&amp;src=m8kqed7frse12cfu6v0p3va7ng%40group.calendar.google.com&amp;color=%23691426&amp;src=h1qos25lnerre5cpkhglft6dlg%40group.calendar.google.com&amp;color=%236B3304&amp;src=io62qs724i1f015kfjvpov31ic%40group.calendar.google.com&amp;color=%23125A12&amp;src=8rn3m04koc47ecg4gg6otjh984%40group.calendar.google.com&amp;color=%2342104A&amp;src=omre5koi9rbaio4ngeatc0acr0%40group.calendar.google.com&amp;color=%238C500B&amp;src=m4qoa04hdiruboa4jd30qhn8bk%40group.calendar.google.com&amp;color=%23182C57&amp;src=dippikillreservationcenter%40gmail.com&amp;color=%23000000&amp;src=5rf9n13e04bo4q4afptk2n5558%40group.calendar.google.com&amp;color=%23ff0000&amp;ctz=America%2FNew_York" style=" border-width:0 " width="900" height="600" frameborder="0" scrolling="no"></iframe>
+
+<BR><BR>
+<font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Individual Calendars:<BR><BR>
+<a href=https://www.google.com/calendar/embed?src=dippikillreservationcenter%40gmail.com&ctz=America/New_York>Campsites</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=fomtec96eiv38n76pg32r3eqfg%40group.calendar.google.com&ctz=America/New_York>Birches</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=7msvrq2ms0pdcnh90ccdd0jgkg%40group.calendar.google.com&ctz=America/New_York>Collins</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=m8kqed7frse12cfu6v0p3va7ng%40group.calendar.google.com&ctz=America/New_York>Foxlair</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=h1qos25lnerre5cpkhglft6dlg%40group.calendar.google.com&ctz=America/New_York>Garnet</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=5rf9n13e04bo4q4afptk2n5558%40group.calendar.google.com&ctz=America/New_York>Gatehouse</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=io62qs724i1f015kfjvpov31ic%40group.calendar.google.com&ctz=America/New_York>Nelson's Farmhouse</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=8rn3m04koc47ecg4gg6otjh984%40group.calendar.google.com&ctz=America/New_York>Rita's</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=omre5koi9rbaio4ngeatc0acr0%40group.calendar.google.com&ctz=America/New_York>Twin Brooks</a> - 
+
+<a href=https://www.google.com/calendar/embed?src=m4qoa04hdiruboa4jd30qhn8bk%40group.calendar.google.com&ctz=America/New_York>White Pine</a><BR><BR>
+
+</font>
+
+
+
+
+
+</td>
+  </tr>
+  
+
+
+
+<!--#include virtual="includes/include_bottom.shtml" -->

@@ -1,0 +1,34 @@
+
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+ <tr bgcolor="#003300"> 
+    <td colspan="2">
+      <div align="center">&nbsp;<br>
+        <b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">
+<span class="style5"><u>Dippikill 
+        Reservation eAssistant for Collins</u></span> </font></b><BR><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Current 
+        reservations are listed below. Unreserved spaces are not present. Call 
+        (518) 442-5640 for questions.<BR><BR>To view another lodge click <a href=ereserve.shtml>here</a>.
+<BR><br>
+        
+
+
+<br>
+      </div>
+      <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=7msvrq2ms0pdcnh90ccdd0jgkg%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" style=" border-width:0 " width="900" height="600" frameborder="0" scrolling="no"></iframe>
+
+<BR><BR>
+
+
+
+
+
+
+</td>
+  </tr>
+  
+
+
+
+<!--#include virtual="includes/include_bottom.shtml" -->

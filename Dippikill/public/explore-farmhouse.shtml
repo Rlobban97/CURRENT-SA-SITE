@@ -1,0 +1,79 @@
+
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+ <tr>
+    <td height="400" colspan="2" align="left" valign="top" bgcolor="#003300"><blockquote>
+            <p><br />
+              <span class="style4"><a href="explore.shtml">EXPLORE</a> &gt; FARMHOUSE <br><br />
+              </span>
+<!--#include virtual="includes/include_explore.shtml" -->
+</p>
+            
+
+
+<span class="style6"><img src=headers/farmhouse.png></span>
+
+<p>
+<table width=100%><tr><td valign="top">
+<div id="container"> 
+	
+	<ul class="gallery"> 
+		<li><a href="photos/farmhouse1.jpg" class="pic-1"><img src="photos/farmhouse1-sm.jpg" alt="Farm House" /></a></li> 
+		<li><a href="photos/farmhouse2.jpg" class="pic-2"><img src="photos/farmhouse2-sm.jpg" alt="Farm House Living Room" /></a></li> 
+		<li><a href="photos/farmhousekitchen01.jpg" class="pic-3"><img src="photos/farmhousekitchen01-sm.jpg" alt="Farm House Kitchen" /></a></li> 
+		<li><a href="photos/farmhouse4.jpg" class="pic-4"><img src="photos/farmhouse4-sm.jpg" alt="Private Room in Farm House" /></a></li> 
+		<li><a href="photos/farmhouse5.jpg" class="pic-5"><img src="photos/farmhouse5-sm.jpg" alt="Bunk Room in Farm House" /></a></li> 
+		<li><a href="photos/farmhouse6.jpg" class="pic-6"><img src="photos/farmhouse6-sm.jpg" alt="Farm House Backyard" /></a></li> 
+		
+
+	</ul> 
+
+</div>
+
+</td>
+<td valign="top">
+
+<br><br>
+<font size="2">25 Person Maximum Occupancy</font><br><BR>
+<table border=2>
+<tr><td><b>Rental Fee</b></td><td>	Weeknight:</td><td>	Fri+Sat Package:</td></tr>
+<tr><td>Undergrads</td><td>	$225/night</td><td>	$700/weekend</td></tr>
+<tr><td>Other Affiliates</td><td>	$270/night</td><td>	$870/weekend</td></tr>
+</table>
+<br><BR>
+In addition to the reservation price of the cabin, please be ready to pay a $60 cash security deposit for the Farmhouse when you check in.<br><BR>
+Visit our new <strong><a href="ereserve.shtml" style="color:#ff0000;">Online Reservation Assistant</a></strong> to find out if it's available for your visit!
+<BR><BR>Please check the <strong><a href="ereserve.shtml" style="color:#ff0000;">calendar</a></strong> for availability for the dates you’re interested in, even if the dates are in a month not yet open yet.  Dippikill periodically accepts full facility rentals in advance of when reservation dates would normally open.<BR><BR>
+   <span class="style4"> The <strong>Farmhouse</strong> is a fantastic lodge for up to 25 guests.&nbsp;This beautifully updated farmhouse offers guests the Brilliance of the Adirondacks without sacrificing&nbsp;everyday amenities such as running water and electricity.&nbsp;The lodge is heated by wood.&nbsp;There is also a living area with a&nbsp;fireplace and several couches.</span>
+         <br><BR>   <span class="style5">FEATURES</span>
+        <ul>
+          <li class="style4"> This beautifully updated Farmhouse offers guests the brilliance of the Adirondacks without sacrificing everyday amenities such as running water and electricity </li>
+          <li class="style4"> 25 person maximum occupancy </li>
+          <li class="style4"> 6 private bedrooms and bunk room with 4 bunk beds and 2 single beds </li>
+          <li class="style4"> Electric lights </li>
+          <li class="style4"> 2 electric stoves </li>
+          <li class="style4"> Cooking utensils and gear provided </li>
+          <li class="style4"> Running water </li>
+          <li class="style4"> Electric heat </li>
+          <li class="style4"> Fireplace </li>
+          <li class="style4"> Stocked woodshed </li>
+          <li class="style4"> Campfire ring </li>
+          <li class="style4"> Located on the main road and is close to the bathhouse </li>
+          <li class="style4"> Handicap accessible </li>
+            </ul>
+     
+</td></tr></table>
+
+
+</p><center><iframe src="https://docs.google.com/file/d/0B1_c_o0Yn2AReDdOdVpBUzZtR0E/preview" width="640" height="385"></iframe></center>
+         
+
+               
+         </blockquote></td>
+  </tr>
+ 
+
+
+
+<!--#include virtual="includes/include_bottom.shtml" -->

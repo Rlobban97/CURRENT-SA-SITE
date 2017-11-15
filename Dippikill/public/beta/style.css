@@ -1,0 +1,443 @@
+/*  
+Theme Name: ES Foggy Forest
+Theme URI: http://www.evilscience.org
+Description: This is my first wordpress theme based on magnificent picture of http://www.sxc.hu/profile/kovik Foggy Forest. www.evilscience.com
+Version: 1.0
+Author: Hellas
+Author URI: http://my.opera.com/hellas/
+
+Licence: Creative Common Attribution-Share Alike 2.5 see licence.txt
+*/
+
+body, h1, h2, h3, h4, h5, h6, p, form{
+	margin: 0;
+	padding: 0;
+	
+}
+
+body{
+	margin: 0;
+	font-family: Arial, Helvetica, Georgia, Sans-serif;
+	font-size: 12px;
+	text-align: center;
+	vertical-align: top;
+	color: #000000;
+    background: #485120 url(images/contall.jpg) repeat-y 50% 200px;
+}
+
+h1{
+	font-family: Georgia, Sans-serif;
+	font-size: 24px;
+}
+
+a:link, a:visited{
+	text-decoration: underline;
+	color: #5a371a;
+}
+
+a:hover, a:active{
+    text-decoration: none;
+	color: #301e0c;
+}
+
+
+.date {
+color:#666666;
+}
+
+p{
+	padding: 10px 0 0 0;
+}
+
+#wrapper{
+	margin: 0 auto 0 auto;
+	width: 799px;
+	text-align: left;
+}
+
+#topcontainer {
+	width: 799px;
+	height: 38px;
+	padding-top:6px;
+	padding-bottom:0px;
+	background:url(images/topbg.jpg) top left repeat-x;
+}
+
+#topleft {
+	width: 599px;
+	height:38px;
+	float:left;
+	background:url(images/topbg.jpg) top left repeat-x;
+	}
+
+#topright {
+	width: 200px;
+	height:38px;
+	float:right;
+	background:url(images/topbg.jpg) top left repeat-x;
+	}
+
+#header{
+	float: left;
+	width: 799px;
+	height:384px;
+	background: #485120 url(images/header.jpg) top left no-repeat;
+	
+}
+
+#blogtitle {
+    color:#CCCCCC;
+	font-size:22px;
+	padding-top:280px;
+	padding-left:50px;
+}
+
+#blogtitle h1 {
+    color:#FFFFFF;
+	font-family: Georgia, Sans-serif;
+	font-size: 48px;
+}
+
+}
+
+#containall {
+	clear:both;
+	width:799px;
+}
+
+#container{
+	float: left;
+	width: 589px;
+	background: #485120 url(images/contentbg.jpg) top left repeat-y;
+}
+
+.sidebar{
+	display: inline;
+    background: #485120 url(images/sidebarbg.jpg) top left repeat-y;
+    float:right;
+	width: 210px;	
+}
+
+
+
+
+.post{
+	padding: 0 30px 15px 30px;
+}
+
+.post h2{
+	font-family: Georgia, Sans-serif;
+	font-size: 18px;
+}
+
+.entry{
+	line-height: 18px;
+}
+
+p.postmetadata{
+	border-top: 1px solid #ccc;
+	margin: 5px 0 10px 0;
+}
+
+.navigation{
+	padding: 10px 10px 10px 10px;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+	text-align:center;
+}
+
+
+
+.sidebar ul{
+	list-style-type: none;
+	display:inline;
+	margin-left:0;
+}
+
+.sidebar ul li{
+	text-align: left;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	
+
+}
+
+.sidebar ul li h2{
+	font-family: Georgia, Sans-serif;
+	font-size: 14px;
+	text-align:center;
+	padding-right:10px;
+	padding-bottom:10px;
+	background:url(images/plugintitle.jpg) bottom center no-repeat;
+	margin-bottom:10px;
+}
+
+.sidebar ul ul li{
+	padding: 0px;
+	line-height: 20px;
+}
+
+table#wp-calendar{
+	width: 100%;
+}
+
+#footer{
+	display:inline;
+    float:left;
+	width: 799px;
+	padding: 0;
+	background: #485120 url(images/footerbg.jpg) top left no-repeat;
+}
+
+#footer p{
+   margin-top:20px;
+}
+
+#footer a:link {
+	color:#CCCCCC;
+	}
+
+#footer a:visited {
+	color:#CCCCCC;
+	}
+#footer a:hover {
+	color:#FFFFFF;
+	}
+
+#footer a:active {
+	color:#FFFFFF;
+	}
+
+
+
+
+
+
+
+
+/************************************************
+*	Search Form									*
+************************************************/
+
+#searchform {
+
+	margin: 0px;
+	height:38px;
+	font-size:14px;
+	
+	}
+	
+#s {
+	background:url(images/searchbg.jpg) top left no-repeat;
+    padding-top:5px;
+    padding-bottom:5px;
+	padding-left:5px;
+	width: 149px;
+	color: #333333;
+	font-size: 11px;
+	font-family: Arial, Tahoma, Verdana;
+	border: 0px solid #000;
+	margin-top:0px;
+	}
+	
+#sbutt {
+	background: #485120;
+
+	color: #000;
+	font-size: 11px;
+	font-family: Arial, Tahoma, Verdana;
+	margin-top:8px;
+	border: 0px solid #FFFFFF;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-top:1px;
+	background:url(images/buttonbg.jpg) top left no-repeat;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+.comments-template{
+	margin: 10px 0 0;
+	border-top: 1px solid #485120;
+	padding: 10px 0 0;
+}
+
+.comments-template ol{
+	margin: 0;
+	padding: 0 0 15px;
+	list-style: none;
+}
+
+.comments-template ol li{
+	margin: 10px 0 0;
+	line-height: 18px;
+	padding: 0 0 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.comments-template h2, .comments-template h3{
+	font-family: Georgia, Sans-serif;
+	font-size: 16px;
+}
+
+.commentmetadata{
+	font-size: 12px;
+}
+
+.comments-template p.nocomments{
+	padding: 0;
+}
+
+.comments-template textarea{
+	font-family: Arial, Helvetica, Georgia, Sans-serif;
+	font-size: 12px;
+}
+
+
+/*navigacija*/
+/* Uklonio tacke ispred navigacije */
+
+#topleft ul
+{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+/* Slozio navigaciju vodoravno */
+
+#topleft li
+{
+float: left;
+margin: 0px;
+}
+
+/* Izrada boxeva */
+#topleft li a
+{
+height: 38px;
+line-height:38px;
+float: none;
+width:80px;
+overflow:hidden;
+display: block;
+color: #FFFFFF;
+text-decoration: none;
+text-align: center;
+font-size:12px;
+font-weight:bold;
+
+}
+
+#topleft li a:hover
+{
+height: 38px;
+float: none;
+line-height:38px;
+
+display: block;
+color:#999999;
+text-decoration: underline;
+text-align: center;
+font-size:12px;
+font-weight:bold;
+}
+
+
+/* Begin Various Tags & Classes */
+acronym, abbr, span.caps {
+	cursor: help;
+	}
+
+acronym, abbr {
+	border-bottom: 1px dashed #999;
+	}
+
+blockquote {
+	margin: 15px 30px 0 10px;
+	padding-left: 20px;
+	border-left: 5px solid #485120;
+	}
+
+blockquote cite {
+	margin-top: 5px;
+	margin-bottom:5px;
+	display: block;
+	}
+
+.center {
+	text-align: center;
+	}
+
+.hidden {
+	display: none;
+	}
+
+hr {
+	display: none;
+	}
+
+a img {
+	border: none;
+	}
+
+code {
+	font: 1.1em 'Courier New', Courier, Fixed;
+	}
+
+acronym, abbr, span.caps
+{
+	font-size: 0.9em;
+	letter-spacing: .07em;
+	}
+/* End Various Tags & Classes*/
+
+
+/* Begin Images */
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+/*	Using 'class="alignright"' on an image will (who would've
+	thought?!) align the image to the right. And using 'class="centered',
+	will of course center the image. This is much better than using
+	align="center", being much more futureproof (and valid) */
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+.alignright {
+	float: right;
+	}
+
+.alignleft {
+	float: left
+	}
+/* End Images */

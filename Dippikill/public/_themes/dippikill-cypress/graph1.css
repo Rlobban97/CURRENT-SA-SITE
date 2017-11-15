@@ -1,0 +1,98 @@
+.mstheme
+{
+	separator-image: url(acyprrul.gif);
+	list-image-1: url(acyprbu1.gif);
+	list-image-2: url(acyprbu2.gif);
+	list-image-3: url(acyprbu3.gif);
+	nav-banner-image: url(acyprbnr.gif);
+	navbutton-horiz-normal: url(acyprhb.gif);
+	navbutton-horiz-hovered: url(acyprhbh.gif);
+	navbutton-horiz-pushed: url(acyprhbs.gif);
+	navbutton-vert-normal: url(acyprvb.gif);
+	navbutton-vert-hovered: url(acyprvbh.gif);
+	navbutton-vert-pushed: url(acyprvbs.gif);
+	navbutton-home-normal: url(cyprhoma.gif);
+	navbutton-home-hovered: url(cyprhomh.gif);
+	navbutton-home-pushed: url(blhomep.gif);
+	navbutton-next-normal: url(cyprnxta.gif);
+	navbutton-next-hovered: url(cyprnxth.gif);
+	navbutton-next-pushed: url(blnextp.gif);
+	navbutton-prev-normal: url(cyprprva.gif);
+	navbutton-prev-hovered: url(cyprprvh.gif);
+	navbutton-prev-pushed: url(blprevp.gif);
+	navbutton-up-normal: url(cyprupa.gif);
+	navbutton-up-hovered: url(cypruph.gif);
+	navbutton-up-pushed: url(blupp.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Papyrus;
+	color: rgb(204, 204, 153);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Papyrus;
+	color: rgb(51, 51, 51);
+	font-size: 2;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 51, 51);
+	font-size: 2;
+	font-style: normal;
+	font-weight: bold;
+}
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+	color: rgb(102, 102, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+	color: rgb(102, 102, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+	color: rgb(102, 102, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+	color: rgb(102, 102, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(acyprbu1.gif);
+}
+ul ul
+{
+	list-style-image: url(acyprbu2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(acyprbu3.gif);
+}

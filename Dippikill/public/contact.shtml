@@ -1,0 +1,43 @@
+
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+ <tr>
+    <td height="400" colspan="2" align="left" valign="top" bgcolor="#003300"><blockquote>
+            <p><br />
+              <span class="style6"><img src=headers/contactus.png></span></p>
+            
+        <p><span class="style8">Student Association<br>
+          c/o Dippikill Inc.</span><span class="style7"><br />
+          </span><span class="style8">Campus Center 116<br />
+          University at Albany, SUNY<br />
+          1400 Washington Avenue<br />
+          Albany, NY 12222</span></p>
+            <p><span class="style4">(518) 442-5640 (UAlbany Student Association Mainline)<br />
+          (866) DIPIKIL (Information)</span></p>
+            
+<p><span class="style4">
+<a href="mailto:director@dippikill.com">director@dippikill.com</a> - 
+<strong>Tom Savarie</strong>, Director
+<br />
+<a href="mailto:DippikillBoard@Dippikill.com">DippikillBoard@Dippikill.com</a> - 
+<strong>Casey Crandall</strong>, Chairman of the Board of Directors
+<br>
+ 
+<a href="mailto:webmaster@dippikill.com">webmaster@dippikill.com</a> - 
+<strong>Nick Fahrenkopf</strong>, Webmaster
+<br>             
+<a href="mailto:sa@albany.edu">sa@albany.edu</a> - UAlbany Student Association 
+
+</span>
+
+<span class="style7"><br />
+                          </span></p>
+    </blockquote></td>
+  </tr>
+ 
+
+
+
+
+<!--#include virtual="includes/include_bottom.shtml" -->

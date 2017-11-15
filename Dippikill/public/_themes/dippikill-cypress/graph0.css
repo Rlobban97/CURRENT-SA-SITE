@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(cyprrul.gif);
+	list-image-1: url(cyprbu1.gif);
+	list-image-2: url(cyprbu2.gif);
+	list-image-3: url(cyprbu3.gif);
+	nav-banner-image: url(cyprbnr.gif);
+	navbutton-horiz-normal: url(cyprhbd.gif);
+	navbutton-horiz-hovered: url(cyprhbd.gif);
+	navbutton-horiz-pushed: url(cyprhbsd.gif);
+	navbutton-vert-normal: url(cyprvbd.gif);
+	navbutton-vert-hovered: url(cyprvbd.gif);
+	navbutton-vert-pushed: url(cyprvbsd.gif);
+	navbutton-home-normal: url(cyprhomd.gif);
+	navbutton-home-hovered: url(cyprhomd.gif);
+	navbutton-home-pushed: url(cyprhomd.gif);
+	navbutton-next-normal: url(cyprnxtd.gif);
+	navbutton-next-hovered: url(cyprnxtd.gif);
+	navbutton-next-pushed: url(cyprnxtd.gif);
+	navbutton-prev-normal: url(cyprprvd.gif);
+	navbutton-prev-hovered: url(cyprprvd.gif);
+	navbutton-prev-pushed: url(cyprprvd.gif);
+	navbutton-up-normal: url(cyprupd.gif);
+	navbutton-up-hovered: url(cyprupd.gif);
+	navbutton-up-pushed: url(cyprupd.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(204, 204, 153);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 51, 51);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(cyprbu1.gif);
+}
+ul ul
+{
+	list-style-image: url(cyprbu2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(cyprbu3.gif);
+}

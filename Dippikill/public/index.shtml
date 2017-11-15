@@ -1,0 +1,150 @@
+
+
+<!--#include virtual="includes/include_top.shtml" -->
+
+<tr>
+    <td colspan="2" align="left" valign="top" bgcolor="#003300">
+<!-- <img src="headers/openhouse.png"><br>
+<span class="style4">Join the Student Association in our annual Dippikill Open House on Saturday, November 5th. Whether you're new to Dippikill or not, all are welcome to attend. The afternoon's activities will include a tour of the grounds with stops at many of the lodges and Dippikill Pond. Lunch and transportation will be provided free of charge. Bring a friend or make new friends and discover why current students, faculty and alumni all love Dippikill!
+<br><BR>
+For transportation to Dippikill please arrive at Collins Circle at 10:40am. We will be returning at 6:00pm.
+<br><BR>
+<strong>Registration is free, but space is limited! <a href="http://www.eventbrite.com/event/2187376502/dippikill">Click here to register!</a></strong>
+<br><BR>
+</span> -->
+<img src="mainwst-crop.jpg" width="900" height="309" border="0" />
+
+
+<script type="text/javascript">
+
+/***********************************************
+* Conveyor belt slideshow script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+
+//Specify the slider's width (in pixels)
+var sliderwidth="900px"
+//Specify the slider's height
+var sliderheight="200px"
+//Specify the slider's slide speed (larger is faster 1-10)
+var slidespeed=3
+//configure background color:
+slidebgcolor="#013300"
+
+//Specify the slider's images
+var leftrightslide=new Array()
+var finalslide=''
+leftrightslide[0]='<a href="http://"><img src="top1.jpg" width="300" height="200"  alt="pic1" border="0" /></a>'
+leftrightslide[1]='<a href="http://"><img src="top2.jpg" width="300" height="200"  alt="pic2" border="0" /></a>'
+leftrightslide[2]='<a href="http://"><img src="top3.jpg" width="300" height="200"  alt="pic3" border="0" /></a>'
+leftrightslide[3]='<a href="http://"><img src="top4.jpg" width="133" height="200"  alt="pic4" border="0" /></a>'
+leftrightslide[4]='<a href="http://"><img src="top5.jpg" width="300" height="200"  alt="pic5" border="0" /></a>'
+leftrightslide[5]='<a href="http://"><img src="trailmarker_sm.jpg" width="300" height="200"  alt="trail marker" border="0" /></a>'
+leftrightslide[6]='<a href="http://"><img src="top7.jpg" width="300" height="200"  alt="pic7" border="0" /></a>'
+leftrightslide[7]='<a href="http://"><img src="top8.jpg" width="300" height="200"  alt="pic8" border="0" /></a>'
+leftrightslide[8]='<a href="http://"><img src="top9.jpg" width="300" height="200"  alt="pic9" border="0" /></a>'
+leftrightslide[9]='<a href="http://"><img src="top10.jpg" width="152" height="200"  alt="pic10" border="0" /></a>'
+leftrightslide[10]='<a href="http://"><img src="top11.jpg" width="300" height="200"  alt="pic11" border="0" /></a>'
+leftrightslide[11]='<a href="http://"><img src="top6.jpg" width="300" height="200"  alt="pic6" border="0" /></a>'
+
+
+
+
+//Specify gap between each image (use HTML):
+var imagegap=""
+
+//Specify pixels gap between each slideshow rotation (use integer):
+var slideshowgap=0
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+
+var copyspeed=slidespeed
+leftrightslide='<nobr>'+leftrightslide.join(imagegap)+'</nobr>'
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+leftrightslide+'</span>')
+var actualwidth=''
+var cross_slide, ns_slide
+
+function fillup(){
+if (iedom){
+cross_slide=document.getElementById? document.getElementById("test2") : document.all.test2
+cross_slide2=document.getElementById? document.getElementById("test3") : document.all.test3
+cross_slide.innerHTML=cross_slide2.innerHTML=leftrightslide
+actualwidth=document.all? cross_slide.offsetWidth : document.getElementById("temp").offsetWidth
+cross_slide2.style.left=actualwidth+slideshowgap+"px"
+}
+else if (document.layers){
+ns_slide=document.ns_slidemenu.document.ns_slidemenu2
+ns_slide2=document.ns_slidemenu.document.ns_slidemenu3
+ns_slide.document.write(leftrightslide)
+ns_slide.document.close()
+actualwidth=ns_slide.document.width
+ns_slide2.left=actualwidth+slideshowgap
+ns_slide2.document.write(leftrightslide)
+ns_slide2.document.close()
+}
+lefttime=setInterval("slideleft()",30)
+}
+window.onload=fillup
+
+function slideleft(){
+if (iedom){
+if (parseInt(cross_slide.style.left)>(actualwidth*(-1)+8))
+cross_slide.style.left=parseInt(cross_slide.style.left)-copyspeed+"px"
+else
+cross_slide.style.left=parseInt(cross_slide2.style.left)+actualwidth+slideshowgap+"px"
+
+if (parseInt(cross_slide2.style.left)>(actualwidth*(-1)+8))
+cross_slide2.style.left=parseInt(cross_slide2.style.left)-copyspeed+"px"
+else
+cross_slide2.style.left=parseInt(cross_slide.style.left)+actualwidth+slideshowgap+"px"
+
+}
+else if (document.layers){
+if (ns_slide.left>(actualwidth*(-1)+8))
+ns_slide.left-=copyspeed
+else
+ns_slide.left=ns_slide2.left+actualwidth+slideshowgap
+
+if (ns_slide2.left>(actualwidth*(-1)+8))
+ns_slide2.left-=copyspeed
+else
+ns_slide2.left=ns_slide.left+actualwidth+slideshowgap
+}
+}
+
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0"><td>')
+if (iedom){
+write('<div style="position:relative;width:'+sliderwidth+';height:'+sliderheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+sliderwidth+';height:'+sliderheight+';background-color:'+slidebgcolor+'" onMouseover="copyspeed=0" onMouseout="copyspeed=slidespeed">')
+write('<div id="test2" style="position:absolute;left:0px;top:0px"></div>')
+write('<div id="test3" style="position:absolute;left:-1000px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+sliderwidth+' height='+sliderheight+' name="ns_slidemenu" bgColor='+slidebgcolor+'>')
+write('<layer name="ns_slidemenu2" left=0 top=0 onMouseover="copyspeed=0" onMouseout="copyspeed=slidespeed"></layer>')
+write('<layer name="ns_slidemenu3" left=0 top=0 onMouseover="copyspeed=0" onMouseout="copyspeed=slidespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script>
+</td>
+  
+</tr>
+  
+
+
+
+
+
+<!--#include virtual="includes/include_bottom.shtml" -->

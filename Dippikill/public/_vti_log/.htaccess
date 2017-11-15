@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName dippikill.com
+AuthUserFile /services/webpages/d/i/dippikill.com/public/_vti_pvt/service.pwd
+AuthGroupFile /services/webpages/d/i/dippikill.com/public/_vti_pvt/service.grp

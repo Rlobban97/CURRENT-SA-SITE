@@ -1,0 +1,22 @@
+[info]
+refcount=1
+version=1.01
+readonly=0
+codepage=65001
+format=2
+title=Dippikill Cypress
+[titles]
+1033=Dippikill Cypress
+[Fonts]
+windows-1250, PAPYRUS=Arial
+windows-1251, PAPYRUS=Arial
+windows-1253, PAPYRUS=Arial
+windows-1254, PAPYRUS=Arial
+windows-1255, PAPYRUS=Arial
+windows-1256, PAPYRUS=Arial
+windows-1257, PAPYRUS=Arial
+windows-874, PAPYRUS=Tahoma
+shift_jis, PAPYRUS=ＭＳ Ｐゴシック
+gb2312, PAPYRUS=宋体
+ks_c_5601-1987, PAPYRUS=돋움
+big5, PAPYRUS=新細明體
