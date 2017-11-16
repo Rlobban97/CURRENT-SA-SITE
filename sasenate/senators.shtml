@@ -1,356 +1,243 @@
-
 <!--#include virtual="includes/include_top.shtml" -->
-
 <h2>2017-2018 Student Senators  </h2>
-                <center>
-				<p>The Student Association Senate is comprised of Student Senators elected from the various<br />
-				  living areas of the University at Albany by their residents and Student Senators elected at-large<br />
-				  by the entire student body. The number of Student Senators is based upon the total number of<br />
-				  undergraduate students as well as the population of the various living areas. A reapportionment<br />
-				  is done each year to ensure that all students are properly represented...</p>
-			
-
-
-
-<p align="center">Jump to Living Area Senators: <BR><a href="#atlarge">At-Large</a> - <a href="#indian">Indian</a> - <a href="#state">State</a> - <a href="#colonial">Colonial</a> - <a href="#dutch">Dutch</a><BR><a href="#alumni">Alumni</a> - <a href="#empire">Empire</a> - <a href="#freedom">Freedom</a> - <a href="#liberty">Liberty</a> - <a href="#offcampus">Off Campus</a></p>
-				
-<BR>
-<p align="center">Jump to Academic Division Senators: <BR><a href="#science">Applied/Natural Sciences</a> - <a href="#business">Business/Management</a> <BR> <a href="#humanities">Humanities</a> - <a href="#govt">Law/Government</a> - <a href="#social">Social Sciences - <a href="#firstyear">First Year Students</a></p>
-
-
-<p>
-
-<a name="atlarge"></a>
-				
-
-<table width=30%>
-					
-<tr>
-<td><b><u>At-Large</u></b>
-<br><a href = "SaskiaPilorge.shtml">Saskia Pilorge</a>
-<br><a href = "TylerPolite.shtml">Tyler Polite</a>
-<br><a href = "MitchellRybak.shtml">Mitchell Rybak</a>
-<br><a href = "SubhaTasnim.shtml">Subha Tasnim</a>
-<br><a href = "AnnaAgnes.shtml">Anna Agnes</a>
-<br><a href = "DillonAsmus.shtml">Dillon Asmus</a>
-<br><a href = "ChloeAnneBlaise.shtml">Chloe Anne Blaise</a>
-<br><a href = "DannyCheng.shtml">Danny Cheng</a>
-<br><a href = "SeanCorreia.shtml">Sean Correia</a>
-<br><a href = "AmandaGoldfine.shtml">Amanda Goldfine</a>
-<br><a href = "BrandonHoldridge.shtml">Brandon Holdridge</a>
-<br><a href = "MoisesUrena.shtml">Moises Urena</a>
-<br><a href = "DejouraeWilliams.shtml">Dejourae Williams</a>
-</td>
-</tr>
-     
-<script type="text/javascript">
-masterlist('L');
-</script>
-
-</table>
-               
-<br><BR>
-
-<a name="indian"></a>
-				
-<table width=30%>
-					
-<tr>
-<td><b><u>Indian Quad</u></b>
-<br><a href = "LoganLosito.shtml">Logan Losito</a>
-<br><a href = "KennyBarrera.shtml">Kenny Barrera</a>
-</td>
-</tr>
-                        
-                
-<script type="text/javascript">
-masterlist('I');
-</script>
-</table>
-               
-
-
-<br><BR>
-
-<a name="state"></a>
-				
-<table width=30%><tr>
-<td><b><u>State Quad</u></b>
-<br><a href = "CassandraJones.html">Cassandra Jones</a>
-<br><a href = "MaxSevor.html">Max Sevor</a>
-
-</td></tr>
-
-
-
-                         
-             
-<script type="text/javascript">
-masterlist('S');
-</script>
-</table>
-                               
-
-
-<br><BR>
-
-<a name="colonial"></a>
-				
-<table width=30%>
-<tr>
-<td><b><u>Colonial Quad</u></b>
-<br><a href = "KatherineDobler.shtml">Katherine Dobler</a>
-<br><a href = "OwenHoward.shtml">Owen Howard</a>
-</td>
-</tr>
-                          
-                
-<script type="text/javascript">
-masterlist('C');
-</script>
-</table>
-                                
-
-
-<br><BR>
-
-<a name="dutch"></a>
-				
-<table width=30%><tr><td><b><u>Dutch Quad</u></b>
-<br><a href = "TerrellMiller.shtml">Terrell Miller</a>
-<br><a href = "JessicaRichard.shtml">Jessica Richards</a>
-</td>
-</tr>
-                         
-                
-<script type="text/javascript">
-masterlist('D');
-</script>
-</table>
-                                
-
-
-
-<br><BR>			
-
-<a name="alumni"></a>
-				
-<table width=30%>
-<tr><td><b><u>Alumni Quad</u></b>
-<br><a href = "CarlosMcArthur.shtml">Carlos McArthur</a>
-<br><a href = "DesannCarty.shtml">Desann Carty</a>
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('A');
-</script>
-</table>               
-                                
-
-
-<br><BR>
-
-<a name="empire"></a>
-				
-<table width=30%>
-<tr><td><b><u>Empire Commons</u></b>
-<br><a href = "NadiaNaoum.shtml">Nadia Naoum</a>
-<br><a href = "LelaEdwards.shtml">Lela Edwards</a>
-
-</td>
-</tr>
-<script type="text/javascript">
-masterlist('E');
-</script>
-</table>                
-                                
-
-
-<br><BR>
-
-<a name="freedom"></a>
-				
-<table width=30%>
-<tr>
-<td><b><u>Freedom</u></b>
-<br><a href = "JackO'Connell.shtml">Jack O'Connell</a>
-<br><a href = "AdamShayo.shtml">Adam Shayo</a>
-
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('F');
-</script>
-</table>
-   
-
-<br><BR>
-
-<a name="liberty"></a>
-				
-<table width=30%>
-<tr>
-<td><b><u>Liberty Terrace</u></b>
-<br><a href = "HannahSmith.shtml">Hannah Smith</a>
-<br><a href = "PaulinaHatzipetrakos.shtml">Paulina Hatzipetrakos</a>
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('T');
-</script>
-</table>
-                            
-
-
-<br><BR>
-
-<a name="offcampus"></a>
-
-<table width=30%><tr>
-<td><b><u>Off Campus</u></b>
-<br><a href = "oliviaJohansen.shtml">Olivia Johansen</a>
-<br><a href = "JoulyLajara.shtml">Jouly Lajara</a>
-<br><a href = "PhilO'Meara.shtml">Phil O'Meara</a>
-<br><a href = "MarkAnhonyQuinn.shtml">Mark Anthony Quinn</a>
-<br><a href = "ZacharieSt-Hubert.shtml">Zacharie St-Hubert</a>
-<br><a href = "CaraBerkey.shtml">Cara Berkey</a>
-<br><a href = "HannahBostwick.shtml">Hannah Bostwick</a>
-<br><a href = "PatrickCarroll.shtml">Patrick Carroll</a>
-
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('O');
-</script>
-</table>
- 
-
-
-
-<br><BR>
-
-<a name="science"></a>
-
-<table width=30%><tr>
-<td><b><u>Applied/Natural Sciences</u></b>
-<br><a href = "ChazBlackwood.shtml">Chaz Blackwood</a>
-<br><a href = "MorganEldridge.shtml">Morgan Eldridge</a>
-
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('P');
-</script>
-</table>
- 
-
-
-<br><BR>
-
-<a name="business"></a>
-
-<table width=30%><tr>
-<td><b><u>Business and Management</u></b>
-<br><a href = "NicholasLeonardo.shtml">Nicholas Leonardo</a>
-<br><a href = "AmandaDemma.shtml">Amanda Demma</a>
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('B');
-</script>
-</table>
- 
-
-
-
-<br><BR>
-
-<a name="humanities"></a>
-
-<table width=30%><tr>
-<td><b><u>Humanities</u></b>
-<br><a href = "JeffreyShapiro.shtml">Jeffrey Shapiro</a>
-<br><a href = "JennaZier.shtml">Jenna Zier</a>
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('H');
-</script>
-</table>
- 
-
-
-
-<br><BR>
-
-<a name="govt"></a>
-
-<table width=30%><tr>
-<td><b><u>Law and Government</u></b>
-<br><a href = "JarrettAltilio.shtml">Jarrett Altilio</a>
-<br><a href = "Paul Capuano.shtml">Paul Capuano</a>
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('G');
-</script>
-</table>
- 
-
-
-
-<br><BR>
-
-<a name="social"></a>
-
-<table width=30%><tr>
-<td><b><u>Social Sciences</u></b>
-<br><a href = "kennedyKujawa.shtml">Kennedy Kujawa</a>
-<br><a href = "BrianaDominguez.shtml">Briana Dominguez</a>
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('Z');
-</script>
-</table>
- 
-
-
-<br><BR>
-
-<a name="firstyear"></a>
-
-<table width=30%><tr>
-<td><b><u>First Year Students</u></b>
-<br><a href = "ChiChi.shtml">ChiChi Igboekwe</a>
-<br><a href = "IsaiahJames.shtml">Isaiah James</a>
-</td>
-</tr>
-
-<script type="text/javascript">
-masterlist('Y');
-</script>
-</table>
-                
-           
-
-
-                 
-                
-</p>
-			</center>
-            
-			
-
+<center>
+    <p>The Student Association Senate is comprised of Student Senators elected from the various
+        <br > living areas of the University at Albany by their residents and Student Senators elected at-large
+        <br > by the entire student body. The number of Student Senators is based upon the total number of
+        <br > undergraduate students as well as the population of the various living areas. A reapportionment
+        <br > is done each year to ensure that all students are properly represented...</p>
+    <p align="center">Jump to Living Area Senators:
+        <br><a href="#atlarge">At-Large</a> - <a href="#indian">Indian</a> - <a href="#state">State</a> - <a href="#colonial">Colonial</a> - <a href="#dutch">Dutch</a>
+        <br><a href="#alumni">Alumni</a> - <a href="#empire">Empire</a> - <a href="#freedom">Freedom</a> - <a href="#liberty">Liberty</a> - <a href="#offcampus">Off Campus</a></p>
+    <br>
+    <p align="center">Jump to Academic Division Senators:
+        <br><a href="#science">Applied/Natural Sciences</a> - <a href="#business">Business/Management</a>
+        <br> <a href="#humanities">Humanities</a> - <a href="#govt">Law/Government</a> - <a href="#social">Social Sciences - <a href="#firstyear">First Year Students</a></p>
+    <p>
+        <a name="atlarge"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>At-Large</u></b>
+                    <br><a href="SaskiaPilorge.shtml">Saskia Pilorge</a>
+                    <br><a href="TylerPolite.shtml">Tyler Polite</a>
+                    <br><a href="MitchellRybak.shtml">Mitchell Rybak</a>
+                    <br><a href="SubhaTasnim.shtml">Subha Tasnim</a>
+                    <br><a href="AnnaAgnes.shtml">Anna Agnes</a>
+                    <br><a href="DillonAsmus.shtml">Dillon Asmus</a>
+                    <br><a href="ChloeAnneBlaise.shtml">Chloe Anne Blaise</a>
+                    <br><a href="DannyCheng.shtml">Danny Cheng</a>
+                    <br><a href="SeanCorreia.shtml">Sean Correia</a>
+                    <br><a href="AmandaGoldfine.shtml">Amanda Goldfine</a>
+                    <br><a href="BrandonHoldridge.shtml">Brandon Holdridge</a>
+                    <br><a href="MoisesUrena.shtml">Moises Urena</a>
+                    <br><a href="DejouraeWilliams.shtml">Dejourae Williams</a> </td>
+            </tr>
+            <!--<script type="text/javascript">
+                masterlist('L');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="indian"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Indian Quad</u></b>
+                    <br><a href="LoganLosito.shtml">Logan Losito</a>
+                    <br><a href="KennyBarrera.shtml">Kenny Barrera</a> </td>
+            </tr>
+            <!--<script type="text/javascript">
+                masterlist('I');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="state"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>State Quad</u></b>
+                    <br><a href="CassandraJones.html">Cassandra Jones</a>
+                    <br><a href="MaxSevor.html">Max Sevor</a> </td>
+            </tr>
+            <!-- <script type="text/javascript">
+                masterlist('S');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="colonial"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Colonial Quad</u></b>
+                    <br><a href="KatherineDobler.shtml">Katherine Dobler</a>
+                    <br><a href="OwenHoward.shtml">Owen Howard</a> </td>
+            </tr>
+           <!--  <script type="text/javascript">
+                masterlist('C');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="dutch"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Dutch Quad</u></b>
+                    <br><a href="TerrellMiller.shtml">Terrell Miller</a>
+                    <br><a href="JessicaRichard.shtml">Jessica Richards</a> </td>
+            </tr>
+            <!-- <script type="text/javascript">
+                masterlist('D');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="alumni"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Alumni Quad</u></b>
+                    <br><a href="CarlosMcArthur.shtml">Carlos McArthur</a>
+                    <br><a href="DesannCarty.shtml">Desann Carty</a> </td>
+            </tr>
+          <!--  <script type="text/javascript">
+                masterlist('A');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="empire"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Empire Commons</u></b>
+                    <br><a href="NadiaNaoum.shtml">Nadia Naoum</a>
+                    <br><a href="LelaEdwards.shtml">Lela Edwards</a> </td>
+            </tr>
+            <!-- <script type="text/javascript">
+                masterlist('E');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="freedom"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Freedom</u></b>
+                    <br><a href="JackO'Connell.shtml">Jack O'Connell</a>
+                    <br><a href="AdamShayo.shtml">Adam Shayo</a> </td>
+            </tr>
+            <!-- <script type="text/javascript">
+                masterlist('F');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="liberty"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Liberty Terrace</u></b>
+                    <br><a href="HannahSmith.shtml">Hannah Smith</a>
+                    <br><a href="PaulinaHatzipetrakos.shtml">Paulina Hatzipetrakos</a> </td>
+            </tr>
+            <!-- <script type="text/javascript">
+                masterlist('T');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="offcampus"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Off Campus</u></b>
+                    <br><a href="oliviaJohansen.shtml">Olivia Johansen</a>
+                    <br><a href="JoulyLajara.shtml">Jouly Lajara</a>
+                    <br><a href="PhilO'Meara.shtml">Phil O'Meara</a>
+                    <br><a href="MarkAnhonyQuinn.shtml">Mark Anthony Quinn</a>
+                    <br><a href="ZacharieSt-Hubert.shtml">Zacharie St-Hubert</a>
+                    <br><a href="CaraBerkey.shtml">Cara Berkey</a>
+                    <br><a href="HannahBostwick.shtml">Hannah Bostwick</a>
+                    <br><a href="PatrickCarroll.shtml">Patrick Carroll</a> </td>
+            </tr>
+            <!-- <script type="text/javascript">
+                masterlist('O');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="science"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Applied/Natural Sciences</u></b>
+                    <br><a href="ChazBlackwood.shtml">Chaz Blackwood</a>
+                    <br><a href="MorganEldridge.shtml">Morgan Eldridge</a> </td>
+            </tr>
+            <!-- <script type="text/javascript">
+                masterlist('P');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="business"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Business and Management</u></b>
+                    <br><a href="NicholasLeonardo.shtml">Nicholas Leonardo</a>
+                    <br><a href="AmandaDemma.shtml">Amanda Demma</a> </td>
+            </tr>
+           <!-- <script type="text/javascript">
+                masterlist('B');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="humanities"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Humanities</u></b>
+                    <br><a href="JeffreyShapiro.shtml">Jeffrey Shapiro</a>
+                    <br><a href="JennaZier.shtml">Jenna Zier</a> </td>
+            </tr>
+           <!-- <script type="text/javascript">
+                masterlist('H');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="govt"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Law and Government</u></b>
+                    <br><a href="JarrettAltilio.shtml">Jarrett Altilio</a>
+                    <br><a href="Paul Capuano.shtml">Paul Capuano</a> </td>
+            </tr>
+           <!-- <script type="text/javascript">
+                masterlist('G');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="social"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>Social Sciences</u></b>
+                    <br><a href="kennedyKujawa.shtml">Kennedy Kujawa</a>
+                    <br><a href="BrianaDominguez.shtml">Briana Dominguez</a> </td>
+            </tr>
+           <!-- <script type="text/javascript">
+                masterlist('Z');
+            </script> -->
+        </table>
+        <br>
+        <br>
+        <a name="firstyear"></a>
+        <table width=30%>
+            <tr>
+                <td><b><u>First Year Students</u></b>
+                    <br><a href="ChiChi.shtml">ChiChi Igboekwe</a>
+                    <br><a href="IsaiahJames.shtml">Isaiah James</a> </td>
+            </tr>
+           <!-- <script type="text/javascript">
+                masterlist('Y');
+            </script> -->
+        </table>
+    </p>
+</center>
 <!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
-
 <!--#include virtual="includes/include_bottom.shtml" -->
