@@ -12,7 +12,16 @@
                           <script type="text/javascript">committee(8);</script>
                 </table>
 </p>
-		
+		    <p><b>Chair</b>Mark Anthony Quinn</p>
+				<p><b>Ranking Member</b> Max Sevor</p>
+				<p>Sen. Chloe Blaise</p>
+				<p>Sen. Paul Capuano</p>
+				<p>Sen. Owen Howard</p>
+				<p>Sen. Terrell Miller</p>
+			  <p>Sen. Jack O’Connell</p>
+			  <p>Sen. Nadia Naoum</p>
+			  <p>Sen. Jessica Richards</p>
+			  <p>Sen. Jeffrey Shapiro</p>
                 
 <!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
 <!--#include virtual="includes/include_bottom.shtml" -->

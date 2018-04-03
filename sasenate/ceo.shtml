@@ -6,12 +6,23 @@
 <table>
 					<tr>
 						<td><b><u>The CEO Committee:</u></b></td>
+						
 					</tr>
+						
                           <script type="text/javascript">committee(6);</script>
                 </table>
 
 				</p>
-			
+				<p><b>Chair</b> Sean Correia</p>
+				<p><b>Ranking Member</b> Hannah Bostwick</p>
+				<p>Sen. Desann Carty</p>
+				<p>Sen. Briana Dominguez</p>
+				<p>Sen. Isaiah James</p>
+				<p>Sen. Saskia Pilorge</p>
+			  <p>Sen. Tyler Polite</p>
+			  <p>Sen. Hannah Smith</p>
+			  <p>Sen. Kelly Zelaya</p>
+			  <p>Sen. Jenna Zier</p>
 <!--#include virtual="includes_navleft/include_navleft_senate.shtml" -->
 <!--#include virtual="includes/include_bottom.shtml" -->
             
