@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--#include virtual="includes/include_top.shtml" --><h2>Director of Student Group Affairs</h2>																<p><img src=images/AlyssaC.png align=right height="150" width="150"> 
 
 "Alyssa of 'Lyss' Cacoperdo is a graduating senior, pursuing a degree in Communications with a dual concentration in Public Health and Emergency Preparedness. She is the newly appointed Director of Student Group Affairs. Being known as the 'joiner' in her household, she felt it was very fitting to pursue such an integral component to ensuring students are having a positive college experience. She is a proud recipient of the Bronze Leadership Award. 
@@ -8,3 +9,15 @@ She is an Emergency Management Intern for the Healthcare Association of New York
 <br><br>
  
 <BR><BR>Alyssa Cacoperdo<br>Director of Student Group Affairs<br><a href=mailto:acacoperdo@albany.edu>acacoperdo@albany.edu</a></p>                <!--#include virtual="includes_navleft/include_navleft_executive.shtml" --><!--#include virtual="includes/include_bottom.shtml" -->
+=======
+﻿<!--#include virtual="includes/include_top.shtml" --><h2>Director of Student Group Affairs</h2>																<p><img src=Alyssa_Cacoperdo.png align=right height="150" width="150"> 
+
+Alyssa of 'Lyss' Cacoperdo is a graduating senior, pursuing a degree in Communications with a dual concentration in Public Health and Emergency Preparedness. She is the newly appointed Director of Student Group Affairs. Being known as the 'joiner' in her household, she felt it was very fitting to pursue such an integral component to ensuring students are having a positive college experience. She is a proud recipient of the Bronze Leadership Award. 
+<BR><BR>
+Alyssa is a member of two fraternities: Alpha Phi Omega, whose principles focus in Leadership, Friendship and Service and Epsilon Delta Psi, the pre-professional fraternity for the College of Emergency Preparedness, Homeland Security and Cyber Security. Alyssa served on e-board for UAlbany Salsa Club-SalSUNY for two years and danced on the team for three years. She has been apart of many organizations including the Mentorship Program, UAlbany Dance Council and Students of Albany Against Cancer. 
+<BR><BR>
+She is an Emergency Management Intern for the Healthcare Association of New York State and is currently training for her Emergency Medical Technician exam come May. She has committed to Americorps NCCC FEMA Corps program and will serve in Iowa post-graduation. Her overall aspiration is to obtain her Masters of Public Health in Emergency Management and continue to provide safer practices throughout the country."
+<BR><BR>
+
+<BR><BR>Alyssa "Lyss" Cacoperdo<br>Director of Student Group Affairs<br><a href=mailto:acacoperdo@albany.edu>acacoperdo@albany.edu</a></p>                <!--#include virtual="includes_navleft/include_navleft_executive.shtml" --><!--#include virtual="includes/include_bottom.shtml" -->
+>>>>>>> origin/master
